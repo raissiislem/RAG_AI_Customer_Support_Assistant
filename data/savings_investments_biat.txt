@@ -1,0 +1,791 @@
+===== Plan Epargne Résidence =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/plan-epargne-residence_63_47
+---
+Plan Epargne Résidence
+Epargnez pour devenir propriétaire
+Vous souhaitez préparer votre projet immobilier à usage d’habitation : acquisition d'une résidence ou d’un  terrain, construction / extension de votre résidence ?
+Le Plan Epargne Résidence vous permet de constituer à votre rythme votre apport personnel (auto-financement) et de bénéficier(*) par la suite d’un crédit à l’immobilier
+CREDIRESIDENCE
+à des conditions très avantageuses
+Caractéristiques
+Une épargne préalable en toute souplesse :
+sans contrainte de versement périodique
+sur une durée minimum de 2 ans
+un montant d’épargne moyen minimum de 5.000 TND
+Votre épargne est rémunérée à 3,5% par an
+Un
+CREDIRESIDENCE
+très avantageux à la fin de la phase épargne :
+Montant :
+Allant jusqu’à
+10 fois
+votre épargne moyenne en fonction de votre capacité de remboursement / maximum : 90% du coût de votre projet.
+Durée de remboursement :
+jusqu'à 25 ans.
+Avantages
+Constitution de votre apport personnel pour faire face à la cherté du prix de l’immobilier
+Souplesse et rendement de l’épargne
+Possibilité de retraits en cas de besoin
+Accès à un crédit avec un taux d’intérêt fixe très avantageux (plafonné à TMM+1%)
+Possibilité de cession de votre droit à crédit à un ascendant ou descendant direct ou à votre conjoint
+(*) Après accord de votre Agence BIAT
+
+===== Simuler votre Epargne =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/simuler-votre-epargne_76_125
+---
+Simuler votre Epargne
+
+===== Cours de change BBE =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/cours-de-change-bbe_66_127
+---
+Cours de change BBE  du Jeudi 02 Juillet 2026
+Montant
+De
+En
+SAR
+CAD
+DKK
+AED
+USD
+GBP
+JPY
+KWD
+NOK
+QAR
+SEK
+CHF
+EUR
+BHD
+CNY
+Montant
+De
+SAR
+CAD
+DKK
+AED
+USD
+GBP
+JPY
+KWD
+NOK
+QAR
+SEK
+CHF
+EUR
+BHD
+CNY
+En
+Désignation
+Code
+Unité
+Achat
+Vente
+Ryal Saoudien
+SAR
+10
+7.675
+7.982
+Dollar Canadien
+CAD
+1
+2.028
+2.109
+Couronne Danoise
+DKK
+100
+.1
+.101
+Dirham Emirats Arabe Unis
+AED
+10
+7.847
+8.161
+Dollar des Etats-Unis
+USD
+1
+2.882
+2.997
+Livre Sterling(2)
+GBP
+1
+3.835
+3.988
+Yen Japonais
+JPY
+1000
+17.82
+18.533
+Dinar Koweitien
+KWD
+1
+9.361
+9.735
+Couronne Norvegienne
+NOK
+100
+.1
+.101
+Ryal Quatari
+QAR
+10
+7.907
+8.223
+Couronne Suedoise
+SEK
+10
+.1
+.101
+Franc Suisse
+CHF
+10
+35.667
+37.094
+Euro
+EUR
+1
+3.283
+3.414
+Dinar Bahraini
+BHD
+1
+7.645
+7.951
+Yuan CHINOIS
+CNY
+1
+.424
+.441
+
+===== Cours OPCVM =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/cours-opcvm_65_128
+---
+Cours des OPCVM du                            : Jeudi 02 Juillet 2026
+OPCVM obligataires
+102.438
+SICAV Trésor
+190.621
+SICAV Patrimoine Obligataire
+OPCVM mixtes
+195.428
+SICAV Prosperity
+7.748.806
+FCP VALEURS SERENITE 28
+159.356
+SICAV Opportunity
+OPCVM dédiés aux titulaires de CEA
+133.501
+FCP BIAT – Epargne Actions
+
+===== Epargne WLEDNA =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/epargne-wledna_63_49
+---
+Epargne WLEDNA
+Préparez leur avenir dès maintenant !
+Parce que vos enfants sont un trésor, il est important pour vous de vous assurer qu’ils soient bien armés pour réussir leurs études, loin de tout souci financier. Afin de vous permettre de leur garantir cet important atout tout au long de leur cursus scolaire, nous mettons à votre disposition L’Epargne WLEDNA.
+Parce que vos enfants sont un trésor, il est important pour vous de vous assurer qu’ils soient bien armés pour réussir leurs études, loin de tout souci financier. Afin de vous permettre de leur garantir cet important atout tout au long de leur cursus scolaire, nous mettons à votre disposition
+L’Epargne WLEDNA
+.
+L’Épargne WLEDNA est une formule d’épargne qui vous permet de constituer, progressivement et en toute souplesse (à travers des versements mensuels réguliers que vous choisissez) , une épargne au nom de votre enfant à partir de son plus jeune âge (Bébé, enfant en bas âge, élève du primaire, de l’école de base,...) en vue de financer ses études supérieures tout en ayant accès au cours de cette phase épargne à des privilèges annexes facilitant sa scolarité
+Phase Epargne Baby
+Phase Epargne Baby
+Durant la phase Epargne Baby, vous commencez à constituer progressivement et en toute souplesse une épargne au nom de votre
+enfant âgé de moins de 5 ans
+, dans un cadre avantageux :
+L’épargne constituée au fil du temps est rentabilisée grâce aux intérêts versés.
+Pas de commissions sur les virements reçus sur le Compte Epargne Wledna.
+Option Assurance
+: Si vous souhaitez vous assurer que votre enfant pourra disposer d’un capital même en cas de survenance d’un aléa de la vie (*) ,  nous mettons à votre disposition
+« Assur’Epargne Jeunes »
+, formule d’assurance qui garantit le versement à votre enfant d’un capital de 5.000 Dinars. Vous êtes ainsi sûrs que quoi qu’il arrive, votre enfant pourra disposer d’un capital qui lui sera bien utile le moment venu!
+(*) Décès ou invalidité absolue et définitive
+Phase Najah KIDS
+La phase Najah KIDS vous permet de constituer en toute souplesse une épargne au nom de votre
+enfant âgé 5 à 13 ans
+, et ce dans un cadre avantageux :
+Une épargne rémunérée aux conditions de l’épargne classique et
+exonérée d’impôt
+jusqu’à concurrence de 5.000 dinars d’épargne
+Pas de commissions sur les virements reçus  durant la phase Najah KIDS
+Mais surtout, cette phase vous permettra d’accompagner votre enfant dans ses premiers pas dans l’école dans les meilleures conditions, grâce aux multiples avantages qu’elle offre, à savoir :
+La possibilité
+(*)
+de bénéficier d’un
+Crédit Dirassa
+pour financer ses frais annuels d’inscription de dans un établissement scolaire privé.
+La possibilité
+(*)
+de bénéficier d’un
+Crédit Awda Madrassia
+pour financer ses frais de rentrée scolaire lors de ses études primaires ou d’école de base.
+(*) Après accord de votre Agence BIAT
+Phase Najah JUNIOR
+La phase Najah JUNIOR offre, outre les avantages liés a  l’épargne et aux crédits (
+Crédit Dirassa & Crédit Awda Madrassia
+) la phase Najah KIDS
+(*)
+, la possibilité d’initier votre enfant à la gestion autonome de son budget en lui donnant
+gratuitement sa première carte bancaire
+: La
+Carte FLY
+!  . Fonctionnant comme un porte-monnaie électronique, la Carte FLY lui permettra,
+dans la limite du montant que vous aurez préalablement chargé,
+d’effectuer ses retraits d’argent sur DAB, de régler ses achats rapidement et en toute tranquillité auprès des établissements acceptant le paiement par carte bancaire ( pizzerias, restaurants, boutiques, supermarchés, …….), de charger sa ligne GSM Ooredoo ou de consulter le solde disponible sur sa carte auprès des DAB BIAT, …….etc. Un moyen pratique, sûr et moderne de gérer son budget comme un grand enfant!
+(*) Le Crédit Awda Madrassia finançant ses frais de rentrée scolaire lors de ses études d’école de base ou du secondaire
+Phase Utilisation de l’Epargne Jeunes
+Au commencement de ses études universitaires, votre enfant pourra disposer de son épargne à sa convenance en vue de financer ses études de 1ère et 2ème année du supérieur.
+Phase CREDINAJAH
+Dès que votre enfant aura réussi ses 1ère et 2ème années du supérieur, il pourra bénéficier
+(*)
+d’un CREDINAJAH pour financer ses études universitaires à partir de la 3ème année.
+Le
+CREDINAJAH
+, d’un montant allant jusqu’à trois fois son épargne Jeunes et pouvant atteindre 15.000 Dinars, lui sera octroyé sous forme de bourses tout au long des années universitaires concernées.
+Il pourra ainsi se concentrer à fond sur ses études et maximiser ses chances de réussite loin de tout souci financier !
+(*) Après accord de votre Agence  BIAT
+
+===== Projet Avenir =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/projet-avenir_63_50
+---
+Projet Avenir
+Donnez une chance à vos projets
+Vous souhaitez constituer progressivement une épargne destinée à réaliser tout projet personnel qui vous tient à cœur ? aider vos enfants le moment venu à s’installer dans la vie active ? transmettre un capital à vos proches en franchise totale de droits de succession?
+Nous mettons à votre disposition Projet Avenir, contrat d’épargne (assurance-vie) qui vous permet d’épargner à votre rythme et dans des conditions fiscales très avantageuses, en vue de disposer à l’échéance d’un capital servi en une seule fois, ou sous forme de rente sur une durée de votre choix.
+Caractéristiques
+Vous épargnez librement selon vos possibilités
+Vous choisissez entre 2 modes de versements :
+libres  (à votre convenance)
+ou programmés au rythme qui vous convient (mensuel, trimestriel ,..) et que vous pouvez renforcer par des versements libres à tout moment.
+Votre épargne est fructifiée en toute sécurité
+Une rémunération régulière et attrayante valorise votre épargne mois après mois.
+Un contrat adapté à votre situation et à son évolution
+Vous pouvez à tout moment modifier la durée de votre contrat ainsi que les modalités de vos versements.
+Des avantages fiscaux très intéressants
+Vos versements épargne sont déductibles de votre revenu imposable. Cette déduction peut aller jusqu’à 100.000 Dinars par an sans dépasser 55% de l’impôt exigible sur le revenu global. Pour bénéficier de cet avantage fiscal, votre contrat doit avoir une durée de 8 ans minimum.
+Pas d’impôt sur les intérêts servis sur votre épargne.
+Pas de droits de succession sur le capital transmis au(x) bénéficiaires(s) que vous avez désigné(s).
+Vous assurez à votre famille une sécurité financière pour l’avenir
+En cas de décès accidentel (1), votre épargne sera doublée (dans la limite d’un capital supplémentaire de 25.000 Dinars) et versée aux personnes de votre choix (conjoint, enfants …etc).
+Si vous choisissez le mode des versements programmés, une garantie d’assurance optionnelle vous garantit, en cas de survenance d’un aléa de la vie (décès ou invalidité absolue et définitive) (1), la prise en charge à votre place, des versements restant à effectuer jusqu’au terme de votre plan d’épargne (dans la limite de 40.000 DT).
+Avantages
+Rentabilité attrayante
+qui valorise votre épargne mois après mois
+Des avantages fiscaux importants
+Sécurité :
+assurances sécurisantes et avantageuses
+Des choix multiples de récupération de votre épargne à l'échéance:
+capital, rente (viagère, ou certaine) ou Mix capital/rente
+Disponibilité :
+en cas de besoin, vous pouvez disposer, sous certaines conditions, de votre épargne par retrait (2) ou par avance remboursable.
+(1)	Avant l’âge de 65 ans
+(2)	Sous réserve de régularisation fiscale
+Produit conçu et géré par
+
+===== Projet Avenir Etudes =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/projet-avenir-etudes_63_51
+---
+Projet Avenir Etudes
+Donnez de la suite à ses idées
+Vous avez des enfants en jeune âge ? Vous souhaitez constituer progressivement une épargne afin de financer leurs études supérieures ?  La BIAT vous propose
+Projet Avenir Études
+, contrat d’épargne ( assurance-vie ) qui vous permet de constituer, à votre rythme et dans des conditions fiscales très avantageuses, une épargne destinée au financement des études de vos enfants.
+Caractéristiques
+Vous épargnez librement selon vos possibilités
+Vous choisissez la date de démarrage du versement de la bourse éducation (20ème anniversaire de votre enfant  par exemple) et le montant de la bourse souhaité.
+Votre versement programmé sera ainsi défini  et il pourra être ajusté selon votre capacité d’épargne
+Vous pouvez aussi renforcer à tout moment l’épargne de votre enfant par des versements libres.
+Votre épargne est fructifiée en toute sécurité
+Une rémunération régulière et attrayante valorise votre épargne mois après mois.
+Un contrat qui s’adapte à l’évolution de votre situation
+Vous pouvez modifier la durée de votre contrat ainsi que les modalités de vos versements, si vous souhaitez modifier le montant de la bourse éducation.
+Des avantages fiscaux très intéressants
+Vos versements épargne sont déductibles de votre revenu imposable. Cette déduction peut aller jusqu’à 100.000 Dinars par an sans dépasser 55% de l’impôt exigible sur le revenu global. Pour bénéficier de cet avantage fiscal, votre contrat doit avoir une durée de 8 ans minimum.
+Pour bénéficier de cet avantage fiscal, votre contrat doit avoir une durée de 8 ans minimum.
+Pas d’impôt sur les intérêts servis sur votre épargne.
+Bourse éducation non imposable
+Pas de droits de succession sur le capital transmis à votre enfant ou au(x) bénéficiaires(s) que vous avez désigné(s).
+Vous assurez à votre enfant une sécurité financière pour l’avenir
+En cas de décès accidentel (1), votre épargne sera doublée (dans la limite d’un capital supplémentaire de 25.000 Dinars) et versée à votre enfant ou à la personne de votre choix (sa mère, tuteur, …etc)
+Une garantie d’assurance optionnelle vous garantit, en cas de survenance d’un aléa de la vie    ( décès ou invalidité absolue et définitive ) (1),  la prise en charge par « Assurances BIAT », à votre place, des versements restant à effectuer jusqu’au terme de votre plan d’épargne (dans la limite de 40.000 DT). Ainsi vous êtes assuré que quoi qu’il arrive, votre enfant disposera de l’épargne qui lui permettra de financer ses études conformément à votre souhait.
+Avantages
+Rentabilité attrayante
+qui valorise votre épargne mois après mois
+Sécurité :
+assurances sécurisantes et avantageuses
+Des avantages fiscaux importants
+Disponibilité :
+en cas de besoin vous pouvez disposer, sous certaines conditions, de votre épargne par retrait (2) ou par avance remboursable.
+(1)	Avant l’âge de 65 ans
+(2)	Sous réserve de régularisation fiscale
+Produit conçu et géré par
+
+===== Projet Avenir Retraite =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/projet-avenir-retraite_63_52
+---
+Projet Avenir Retraite
+Une nouvelle vision de la retraite
+Vous souhaitez préserver votre niveau de vie à la retraite et conserver votre pouvoir d’achat grâce à un complément de retraite ?
+La BIAT vous propose
+Projet Avenir Retraite
+, contrat d’épargne (assurance-vie) qui vous permet de constituer, à votre rythme et dans des conditions fiscales très avantageuses, un complément de retraite qui vous sera servi lors de votre départ à la retraite sous la forme que vous souhaitez ( rente ou capital)
+Caractéristiques
+Vous épargnez librement selon vos possibilités
+Vous choisissez  l’âge à partir duquel vous souhaitez commencer à percevoir votre complément de retraite (60ème anniversaire par exemple), le montant du complément et le mode de perception souhaité (rente à vie ou certaine sur une période donnée,  capital servi en une seule fois, mix capital/rente).
+Compte tenu de ce choix, votre versement programmé sera défini ;  vous conviendrez avec votre conseiller en agence du rythme de versement qui vous convient (mensuel, trimestriel .. . .)
+Vous pouvez aussi renforcer à tout moment votre épargne par des versements libres
+Votre épargne fructifie en toute sécurité
+Une rémunération régulière et attrayante valorise votre épargne mois après mois.
+Un contrat adapté à votre situation et à son évolution
+Vous pouvez changer la durée de votre contrat ainsi que les modalités de vos versements, si vous souhaitez modifier le montant de votre complément de retraite.
+Des avantages fiscaux très intéressants
+Vos versements épargne sont déductibles de votre revenu imposable. Cette déduction peut aller jusqu’à 100.000 Dinars par an sans dépasser 55% de l’impôt exigible sur le revenu global. Pour bénéficier de cet avantage fiscal, votre contrat doit avoir une durée de 8 ans minimum
+Pour bénéficier de cet avantage fiscal, votre contrat doit avoir une durée de 8 ans minimum.
+Pas d’impôt sur les intérêts servis sur votre épargne.
+Pas de droits de succession sur le capital transmis au(x) bénéficiaires(s) que vous avez désigné(s).
+Vous assurez à votre famille une sécurité financière pour l’avenir
+En cas de décès accidentel (1), votre épargne sera doublée (dans la limite d’un capital supplémentaire de 25.000 Dinars) et versée aux personnes de votre choix (conjoint, enfants …..).
+Une garantie d’assurance optionnelle vous garantit, en cas de survenance d’un aléa de la vie ( décès ou invalidité absolue et définitive ) (1),  la prise en charge par « Assurances BIAT », à votre place, des versements programmés restant à effectuer jusqu’au terme de votre plan d’épargne (dans la limite de 40.000 DT). Ainsi vous êtes assuré que quoi qu’il arrive, vos proches disposeront de l’épargne qui leur permettra de faire face aux dépenses et charges de la vie courante.
+Avantages
+Rentabilité attrayante
+qui valorise votre épargne mois après mois
+Sécurité :
+assurances sécurisantes et avantageuses
+Des avantages fiscaux importants
+Des choix multiples de récupération de votre épargne à l'échéance:
+capital, rente (viagère, ou certaine) ou Mix capital/rente
+Disponibilité :
+en cas de besoin vous pouvez disposer, sous certaines conditions, de votre épargne par retrait (2) ou par avance remboursable.
+(1) Avant l’âge de 65 ans
+(2) Sous réserve de régularisation fiscale
+Produit conçu et géré par
+
+===== Placements bancaires =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/placements-bancaires_63_119
+---
+Placements bancaires
+La rentabilité en toute sécurité
+Vous voulez faire fructifier un capital en toute sécurité ou placer un excédent de trésorerie à court ou moyen terme, tout en vous assurant un rendement connu d’avance ?
+Notre gamme de placements bancaires vous offre le choix entre plusieurs produits qui ont en commun
+la sécurité de votre capital placé et le rendement connu d’avance, à des degrés divers de disponibilité de votre capital
+.
+Le Bon de Caisse
+C’est un placement sous forme de bon nominatif sur une période déterminée à l’avance, allant de 3 mois à 5 ans. En cas de besoin, vous pouvez, sous certaines conditions, disposer de vos fonds avant l’échéance sous forme d’avance.
+Modalités
+A la souscription : vous recevez un Bon de caisse pour le montant confié.
+A l’échéance : vous êtes remboursé du montant de votre Bon, sur présentation de celui-ci à la BIAT ou aux guichets d’une Banque confrère.
+Rémunération
+Les intérêts sont calculés en fonction de la durée de votre placement sur la base du Taux défini lors de la souscription de votre Bon de caisse.
+Avantages
+Rentabilité :
+Placement rentable
+Sécurité :
+votre capital fructifie en toute sécurité
+Souplesse :
+Perception des intérêts à votre choix, à la souscription ou à l’échéance.
+Possibilité de récupérer vos fonds à l’échéance auprès de toute banque commerciale de la place.
+Titre négociable, le Bon de caisse peut faire l’objet d’un endossement (cession) à un tiers
+Le Compte à Terme
+C’est un compte rémunéré sur lequel vous placez des fonds pour la durée que vous souhaitez, allant de 3 mois à 5 ans. En cas de besoin, vous pouvez, sous certaines conditions, disposer de vos fonds avant l’échéance sous forme d’avance.
+Modalités
+A l’ouverture : dépôt du capital que vous souhaitez placer.
+A l’échéance : remboursement du capital placé augmenté des intérêts.
+Rémunération
+Les intérêts sont calculés en fonction de la durée de votre placement sur la base du Taux défini lors de l’ouverture du compte. Ils sont automatiquement versés au terme de chaque année suivant la date d’ouverture, et enfin à l’échéance.
+Avantages
+Rentabilité :
+Placement rentable
+Sécurité :
+votre capital fructifie en toute sécurité
+Le Compte Placement
+Définition
+C’est un compte qui permet de placer des fonds sans fixer au préalable une durée de placement, dans la limite toutefois d’une durée maximum de 24 mois.
+Modalités
+A l’ouverture : vous effectuez le versement ou le virement du montant du placement (minimum 1.000 Dinars)
+En cas de besoin, vous effectuez des retraits  d’espèces ou des virements en faveur de votre compte à vue, tout en conservant un montant minimum de 1.000 Dinars sur votre compte placement.
+Rémunération
+Les intérêts sont calculés sur la base du Taux défini le jour de l’ouverture de votre Compte Placement et sont fonction de la durée de stabilité de vos fonds.
+A chaque opération de retrait, les intérêts relatifs à la somme retirée sont calculés en fonction de sa durée de stabilité et vous sont ensuite versés.
+En l’absence de retrait, les intérêts vous sont versés au terme de la première année de placement et de l’année suivante.
+Avantages
+Flexibilité :
+pas de durée de placement fixée à l’avance.
+Rentabilité :
+Placement rentable
+Sécurité :
+votre capital fructifie en toute sécurité
+Disponibilité
+des fonds à tout moment
+Suivi régulier
+de votre Compte Placement grâce à un relevé de compte.
+Fiscalité
+Les produits de placements bancaires pouvant être souscrits en Dinars ou Dinars Convertibles, la fiscalité qui leur est appliquée est comme suit :
+Placements en Dinars Tunisiens : Les intérêts sont soumis à une retenue à la source (R.S.) dont le taux en vigueur est de 20%.
+Placements en Dinars Convertibles : Les intérêts sont exonérés d’impôts
+
+===== Les SICAV =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/les-sicav_63_56
+---
+Les SICAV
+Vous allez mesurer leur efficacité
+Vous cherchez un placement de quelques jours, de quelques mois ou à horizon plus lointain tout en voulant conserver la disponibilité de vos avoirs à tout moment ?
+Nos SICAV s’adaptent à votre horizon de placement et vous offrent, en fonction de vos objectifs et priorités (rentabilité, sécurité ……), la possibilité de placer un capital ou un excédent de trésorerie tout en en gardant une disponibilité optimale.
+Choisissez la SICAV BIAT qui vous convient le mieux…
+Caractéristiques
+SICAV TRESOR, si vous recherchez la rentabilité sans sacrifier la sécurité
+SICAV TRESOR est un placement privilégiant la sécurité du capital placé tout en vous offrant une rentabilité attrayante. Grâce à une sélection de supports de placements (en grande partie des obligations d’état et des obligations de sociétés), il vous offre une rémunération attrayante, supérieure en général à celle des placements bancaires classiques.
+SICAV PATRIMOINE OBLIGATAIRE, si vous privilégiez la sécurité sans sacrifier la rentabilité
+SICAV PATRIMOINE OBLIGATAIRE est un placement privilégiant au maximum la sécurité du capital placé et qui, grâce à une sélection de supports de placements (en grande partie des obligations d’état), vous offre une rémunération régulière, supérieure en général à celle des placements bancaires classiques.
+SICAV PROSPERITY, pour profiter des opportunités de la bourse
+Si vous cherchez à profiter des opportunités offertes par la bourse, en gardant une certaine maîtrise des risques grâce à une gestion prudente et équilibrée du portefeuille, SICAV PROSPERITY vous permet de profiter de l’expérience de nos gestionnaires spécialisés qui sélectionnent en permanence les meilleurs supports de placement et vous permettent, grâce à un subtil dosage entre supports orientés sécurité et supports orientés rendement, de saisir les opportunités de bourse, sans soucis de gestion
+SICAV OPPORTUNITY, pour jouer pleinement la carte de la bourse
+Si vous privilégiez les perspectives de rendements élevés offertes par la bourse sur le moyen & long terme en acceptant une certaine prise de risque grâce à une gestion dynamique du portefeuille, SICAV OPPORTUNITY vous permet de profiter de l’expérience de nos spécialistes du placement boursier qui sélectionnent en permanence les meilleurs supports de placement et vous permettent de saisir les meilleures opportunités de la bourse, sans soucis de gestion.
+Avantages
+Rentabilité :
+Revenus sous forme de dividendes et d’éventuelles plus values lors de la revente de vos actions SICAV.
+Disponibilité
+de votre capital à tout moment : votre argent n’est jamais bloqué,
+Commodité :
+vous profitez des opportunités de placements monétaires et/ou boursiers sans soucis de gestion.
+Maîtrise des risques :
+grâce à la gestion efficace de nos professionnels de la bourse,
+Fiscalité avantageuse
+
+===== Pack Epargne =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/pack-epargne_63_389
+---
+Pack Epargne
+Une épargne sûre, rentable et disponible
+Vous désirez vous constituer une épargne de précaution en toute sécurité ou préparer à l’avance un projet qui vous tient à cœur, tout en ayant la possibilité d’accéder à votre épargne à tout moment et en toute souplesse ?
+Le
+Pack Epargne
+est la formule d’épargne la plus simple qui vous permet de constituer et fructifier une épargne de précaution à votre rythme.
+Caractéristiques
+Votre  compte d’épargne est matérialisé par une
+Carte  VISA Express
+Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+Vous  pouvez effectuer librement toute opération de : versement d'espèces, versement  de chèques, retraits espèces. Vous pouvez y recevoir des virements et effectuer  des virements vers vos autres comptes BIAT ou autres banques.
+Ce  compte est rémunéré trimestriellement au Taux de Rendement de l’Epargne (TRE).  En plus, et selon le fonctionnement de votre compte, une prime de fidélité sous forme de bonus d'intérêt vient s'ajouter au  taux d'intérêt servi sur votre Epargne
+Avantages
+Disponibilité  :
+Votre épargne est disponible à tout moment  auprès de toutes les agences BIAT. Par ailleurs et avec la Carte VISA Express,  vous pouvez, quand vous le voulez, consulter le solde de votre compte et  effectuer des retraits auprès de tous les DAB BIAT.
+Rentabilité  :
+Vous bénéficiez d’une rémunération trimestrielle  et d’un bonus d’intérêt récompensant votre fidélité.
+Un  crédit en prime :
+Possibilité de bénéficier (*) après 1 an d'épargne, d’un
+CREDIFOYER
+vous permettant de réaliser vos projets personnels les plus divers  (mariage, équipement foyer...).
+Une  tarification avantageuse
+(*) Après accord de votre Agence BIAT.
+
+===== Produits - Placements bancaires =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/placements-bancaires
+---
+Placements bancaires
+My
+BIAT
+vous permet le suivi de vos placements bancaires, à savoir :
+Comptes de placement
+Comptes à terme
+Bons de caisse
+Placements à terme en devises
+Avances sur dépôts à terme
+Certificats de dépôt
+Après avoir accédé à votre produit de placement via la rubrique « Placements » affichée dans la liste de vos produits, vous pouvez visualiser les détails y afférents, à savoir :
+1. Détails du produit de placement
+Référence
+Type
+2. Montants
+Devise
+Montant du placement
+3. Détails des intérêts
+Taux d’intérêt
+4. Dates
+Date de souscription
+Date valeur
+Date de maturité
+Nombre de jours de placement ( détail disponible uniquement pour les certificats de dépôt)
+5. « Détails de liquidation » :
+vous permet par ailleurs de consulter les détails suivants :
+Compte de souscription
+Compte de liquidation du montant principal
+Compte de liquidation du montant d’intérêt
+Compte de liquidation de la retenue à la source
+Pour ce faire, il vous suffit juste de cliquer sur l’icône
+,si vous utilisez la version mobile de
+My
+BIAT
+, sinon d’accéder au sous-menu « Détails du compte de placement » si vous utilisez la version web de
+My
+BIAT
+Pour consulter
+(*)
+les opérations enregistrées sur votre de produit de placement à partir de la version mobile de
+My
+BIAT
+, il vous suffit d’accéder au produit de placement en question , les opérations y afférentes vous seront affichées.
+Si vous utilisez la version web de
+My
+BIAT
+, ces opérations sont disponibles au niveau du sous-menu « Relevé du compte de placement ».
+Vous pouvez également
+télécharger
+(*)
+le relevé de votre produit de placement
+(*)
+Fonctionnalité disponible uniquement pour : Compte de placement, Compte à terme, Bon de caisse, Placement à terme en devises
+
+===== Produits - Placements titres =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/placements-titres
+---
+Placements titres
+My
+BIAT
+vous permet de consulter en détail vos placements Titres :
+SICAV
+SICAV Patrimoine Obligataire
+SICAV Prosperity
+SICAV Trésor
+SICAV Opportunity
+FCP
+FCP BIAT – Epargne Actions
+FCP BIAT – Equity Performance
+FCP BIAT – Prudence
+FCP BIAT – Croissance
+Bons du trésor
+Bons de trésor assimilables (BTA)
+Bons de trésor à court terme (BTCT)
+Bons de trésor zéro coupons
+En cliquant sur un produit titre, les détails suivants s’affichent :
+Type
+Quantité
+Valeur
+Statut
+Dernière date de mise à jour
+
+===== Produits - Projet Avenir =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/projet-avenir
+---
+Projet Avenir
+En cliquant sur votre « Projet Avenir » affiché dans la liste de vos produits, un écran s’affiche avec les détails du contrat.
+L’écran comporte 3 sections :
+1. Montants
+Versement initial
+Cumul des versements spontanés
+Versement programmé
+Epargne constituée
+2. Dates
+Versement initial
+Durée du contrat
+Fréquence des versements
+3. Rachat
+Montant du rachat partiel
+Montant de l’avance
+Vous pouvez aussi
+télécharger les attestations de versement
+sous format PDF.
+
+===== Téléchargement - Relevé produits de placement =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-releve-produits-de-placement
+---
+Téléchargement relevé produits de placement
+My
+BIAT
+vous permet de consulter et de télécharger le relevé de votre produit de placement.
+Si vous utilisez la version mobile de
+My
+BIAT
+, Il vous suffit de cliquer sur le produit de placement affiché dans la liste de vos produits, l’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre relevé sous format PDF.
+Si vous utilisez la version web de
+My
+BIAT
+, et après avoir accédé au produit de placement affiché dans la liste de vos produits, vous pouvez consulter le relevé y afférent au niveau du sous-menu « Relevé du compte de placement ».
+Pour le télécharger, il vous suffit de cliquer sur l’icône
+de téléchargement située en haut à droite du relevé.
+Il est à noter que les produits de placement permettant de télécharger un relevé via
+My
+BIAT
+sont :
+Compte de placement
+Compte à terme
+Bons de caisse
+Placement à terme en devises
+
+===== Téléchargement - Attestation de versement Projet Avenir =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/telechargement-de-lattestation-de-versement-projet-avenir
+---
+Téléchargement de l’attestation de versement  « Projet Avenir »
+My
+BIAT
+vous permet de télécharger les attestations de versements de votre contrat « Projet Avenir » sous format PDF. Pour ce faire, il vous suffit d’accéder à la section « Projet Avenir » et de cliquer sur la rubrique « Documents ». Vous pouvez ainsi choisir l’attestation souhaitée : Attestation intermédiaire, attestation de versements uniques et attestation annuelle.
+L’attestation intermédiaire :
+relative aux versements programmés. Le duplicata de l’attestation ne peut être généré qu’après le téléchargement de l’attestation originale, soit via
+My
+BIAT
+, soit auprès de votre agence.
+L’attestation de versements uniques :
+relative aux versements ponctuels réalisés au niveau de l’agence ou via
+My
+BIAT
+. Le duplicata de l’attestation ne peut être généré qu’après le téléchargement de l’attestation originale, soit via
+My
+BIAT
+, soit auprès de votre agence.
+L’attestation annuelle :
+relative à l’ensemble des versements programmés de l’année N-1 éditée à l’année N. Seul un duplicata est disponible en téléchargement, car la version originale vous sera envoyée directement par courrier postal.
+
+===== Produits - Placements bancaires =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/placements-bancaires
+---
+Placements bancaires
+My
+BIAT
+vous permet le suivi de vos placements bancaires, à savoir :
+Comptes de placement
+Comptes à terme
+Bons de caisse
+Placements à terme en devises
+Avances sur dépôts à terme
+Certificats de dépôt
+Après avoir accédé à votre produit de placement via la rubrique « Placements » affichée dans la liste de vos produits, vous pouvez visualiser les détails y afférents, à savoir :
+1. Détails du produit de placement
+Référence
+Type
+2. Montants
+Devise
+Montant du placement
+3. Détails des intérêts
+Taux d’intérêt
+4. Dates
+Date de souscription
+Date valeur
+Date de maturité
+Nombre de jours de placement ( détail disponible uniquement pour les certificats de dépôt)
+5. « Détails de liquidation » :
+vous permet par ailleurs de consulter les détails suivants :
+Compte de souscription
+Compte de liquidation du montant principal
+Compte de liquidation du montant d’intérêt
+Compte de liquidation de la retenue à la source
+Pour ce faire, il vous suffit juste de cliquer sur l’icône
+,si vous utilisez la version mobile de
+My
+BIAT
+, sinon d’accéder au sous-menu « Détails du compte de placement » si vous utilisez la version web de
+My
+BIAT
+Pour consulter
+(*)
+les opérations enregistrées sur votre de produit de placement à partir de la version mobile de
+My
+BIAT
+, il vous suffit d’accéder au produit de placement en question , les opérations y afférentes vous seront affichées.
+Si vous utilisez la version web de
+My
+BIAT
+, ces opérations sont disponibles au niveau du sous-menu « Relevé du compte de placement ».
+Vous pouvez également
+télécharger
+(*)
+le relevé de votre produit de placement
+(*)
+Fonctionnalité disponible uniquement pour : Compte de placement, Compte à terme, Bon de caisse, Placement à terme en devises
+
+===== Produits - Placements titres =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/placements-titres
+---
+Placements titres
+My
+BIAT
+vous permet de consulter en détail vos placements Titres :
+SICAV
+SICAV Patrimoine Obligataire
+SICAV Prosperity
+SICAV Trésor
+SICAV Opportunity
+FCP
+FCP BIAT – Epargne Actions
+FCP BIAT – Equity Performance
+FCP BIAT – Prudence
+FCP BIAT – Croissance
+Bons du trésor
+Bons de trésor assimilables (BTA)
+Bons de trésor à court terme (BTCT)
+Bons de trésor zéro coupons
+En cliquant sur un produit titre, les détails suivants s’affichent :
+Type
+Quantité
+Valeur
+Statut
+Dernière date de mise à jour
+
+===== Produits - Projet Avenir =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/projet-avenir
+---
+Projet Avenir
+En cliquant sur votre « Projet Avenir » affiché dans la liste de vos produits, un écran s’affiche avec les détails du contrat.
+L’écran comporte 3 sections :
+1. Montants
+Versement initial
+Cumul des versements spontanés
+Versement programmé
+Epargne constituée
+2. Dates
+Versement initial
+Durée du contrat
+Fréquence des versements
+3. Rachat
+Montant du rachat partiel
+Montant de l’avance
+Vous pouvez aussi
+télécharger les attestations de versement
+sous format PDF.
+
+===== Téléchargement - Relevé produits de placement =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-releve-produits-de-placement
+---
+Téléchargement relevé produits de placement
+My
+BIAT
+vous permet de consulter et de télécharger le relevé de votre produit de placement.
+Si vous utilisez la version mobile de
+My
+BIAT
+, Il vous suffit de cliquer sur le produit de placement affiché dans la liste de vos produits, l’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre relevé sous format PDF.
+Si vous utilisez la version web de
+My
+BIAT
+, et après avoir accédé au produit de placement affiché dans la liste de vos produits, vous pouvez consulter le relevé y afférent au niveau du sous-menu « Relevé du compte de placement ».
+Pour le télécharger, il vous suffit de cliquer sur l’icône
+de téléchargement située en haut à droite du relevé.
+Il est à noter que les produits de placement permettant de télécharger un relevé via
+My
+BIAT
+sont :
+Compte de placement
+Compte à terme
+Bons de caisse
+Placement à terme en devises
+

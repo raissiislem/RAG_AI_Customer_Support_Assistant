@@ -1,0 +1,293 @@
+===== Compte Chèques =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-cheques_63_22
+---
+Compte Chèques
+Vous disposez de revenus réguliers, vous souhaitez gérer votre argent en toute sécurité et en disposer à tout moment ?
+Nous mettons à votre disposition le
+Compte chèques
+BIAT, compte à vue destiné à recevoir vos entrées d’argent et à honorer vos dépenses tout en vous permettant un suivi de vos opérations bancaires.
+Caractéristiques
+Il vous offre des moyens pratiques pour faciliter vos dépenses et retraits d’argent : carnet de chèques, carte de paiement / retrait .
+Vous pouvez effectuer les opérations suivantes :
+Au crédit de votre compte
+: versement d'espèces, versement de chèques, virements...
+Au débit de votre compte
+: retrait d'espèces, tirage de chèques, virements, prélèvements périodiques (téléphone, gaz, électricité...), paiements par carte…
+Avantages
+Votre argent est disponible à tout moment, en toute sécurité
+Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+
+===== Compte Etranger en devises =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-etranger-en-devises_63_24
+---
+Compte Etranger en devises
+Vous êtes étranger non résident en Tunisie et vous disposez de revenus en devises ?
+Vous souhaitez loger vos avoirs en Tunisie, tout en y ayant accès à tout moment en Tunisie ou à l’étranger?
+Le Compte Etranger en devises
+BIAT vous permet de loger vos avoirs en devises et vous permet d’en assurer la gestion en évitant le risque de change et en toute sécurité.
+Caractéristiques
+Avec le Compte Etranger en devises, vous pouvez effectuer les opérations suivantes :
+Au crédit de votre compte
+: versements de devises déclarées à la Douane Tunisienne, versements de chèques en devises ou de chèques de voyage (accompagnés de leurs contrat d'achat), transferts reçus de l'étranger, virements provenant d'un autre compte en devises ou en Dinars convertibles...
+Au débit de votre compte
+: retraits de devises ou de dinars (après cession de devises), virements vers un autre compte en Tunisie ou à l'étranger…
+Pour une gestion pratique et sécurisée de vos avoirs, ce compte peut
+(*)
+donner droit à la délivrance d’une carte de paiement et/ou d’un chéquier.
+Ce compte ne peut, en aucun cas, être débiteur.
+Caractéristiques
+Disponibilité
+: Vous pouvez disposer de vos avoirs à tout moment en Tunisie ou à l’étranger dans la devise de votre choix à concurrence du solde existant
+Fiscalité avantageuse
+: Votre compte est totalement défiscalisé
+Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+(*) Dans le cadre de la réglementation des changes en vigueur
+
+===== Compte Etranger en Dinars Convertibles =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-etranger-en-dinars-convertibles_63_25
+---
+Compte Etranger en Dinars Convertibles
+Le Compte Etranger en Dinars Convertibles
+Vous êtes étranger non résident en Tunisie? Vous disposez de revenus en devises et vous avez des dépenses fréquentes en Tunisie en dinars? Vous souhaitez loger vos avoirs en Tunisie et en disposer à tout moment pour régler vos dépenses locales?
+Caractéristiques
+Avec le Compte Etranger en Dinars Convertibles, vous pouvez effectuer les opérations suivantes :
+Au crédit de votre compte
+: versements de devises déclarées à la Douane Tunisienne, versements de chèques en devises ou de chèques de voyage (accompagnés de leurs contrat d'achat), transferts reçus de l'étranger , virements provenant d'un autre compte en Dinars convertibles ou en devises...
+Au débit de votre compte
+: retraits de dinars ou de devises (après achat), virements vers un autre compte en Tunisie ou à l'étranger, retraits ou paiements par carte…
+Pour une gestion pratique et sécurisée de vos avoirs, ce compte peut
+(*)
+donner droit à la délivrance d’une carte de paiement et/ou d’un chéquier.
+Ce compte ne peut, en aucun cas, être débiteur.
+Avantages
+Disponibilité
+: Vous pouvez disposer de vos avoirs à tout moment en Tunisie ou à l’étranger dans la devise de votre choix à concurrence du solde existant,
+Fiscalité avantageuse
+: Votre compte est totalement défiscalisé
+Suivi facile
+: Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+(*) Dans le cadre de la réglementation des changes en vigueur
+
+===== Compte spécial en devise ou en Dinars Convertibles =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-special-en-devise-ou-en-dinars-convertibles_63_118
+---
+Compte spécial en devise ou en Dinars Convertibles
+Vous êtes de nationalité tunisienne ou étrangère, résident en Tunisie et vous disposez de revenus réguliers provenant de l’étranger ?
+Vous souhaitez gérer vos avoirs en toute sécurité en Tunisie et en disposer à tout moment en devises ou en dinars en Tunisie ?
+Le Compte spécial en devises ou en DC
+est destiné à recevoir vos entrées d’argent en devises et à honorer vos dépenses en Tunisie ou à l’étranger, en dinars ou dans la devise de votre choix.
+Caractéristiques
+Les comptes spéciaux en DC ou en devises fonctionnent de la même manière. Le choix de la devise du compte dépendra de la nature de vos dépenses en Tunisie et de vos besoins :
+Si vos dépenses en Tunisie se font principalement en dinars, optez pour le compte spécial en DC
+Si par contre l’essentiel de vos dépenses en Tunisie se font en devises, optez pour le compte spécial en devises.
+Avantages
+Disponibilité de vos avoirs à tout moment en Tunisie :
+en dinar et en devise pour vos voyages ou ceux de votre famille à l’étranger,
+Disponibilité totale de vos avoirs à l’étranger :
+Vous pouvez  à tout moment disposer de vos avoirs à l’étranger en vue de la réalisation des opérations suivantes : acquisition de biens meubles ou immeubles / remboursement de créances sur l’étranger
+Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+
+===== Compte Intérieur non Résident (INR) =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-interieur-non-resident-inrbr_63_117
+---
+Compte Intérieur non Résident (INR)
+Vous êtes de nationalité étrangère, non résident en Tunisie mais y travaillant temporairement en tant que coopérant
+(*)
+ou en tant que contractuel
+(**)
+et vous percevez un salaire en dinars ?
+Vous voulez avoir la possibilité de gérer et de disposer de vos revenus à tout moment et en toute sécurité, en Tunisie et/ou à l’étranger ?
+Le Compte Intérieur Non Résident INR
+vous permet gérer et de disposer de vos revenus en Tunisie et d’en transférer une partie à tout moment à l’étranger au titre d’économies sur salaire.
+Caractéristiques
+Le compte INR vous permet de :
+réaliser des transferts à l’étranger à titre d'économies sur salaire : jusqu’à 100 % de votre salaire
+( sauf si votre contrat d’engagement en tant que coopérant stipule un droit à transfert < à 100% )
+.
+régler les frais occasionnés par l'administration de vos biens en Tunisie
+créditer un autre compte INR ouvert en votre nom.
+souscrire à des valeurs mobilières tunisiennes (actions, obligations).
+Pour une gestion pratique et sécurisée de vos avoirs, le compte INR peut donner droit
+(***)
+à la délivrance d’une carte de paiement et/ou d’un chéquier.
+Avantages
+Disponibilité et gestion pratique et sécurisée de vos avoirs à tout moment en Tunisie
+Possibilité de transférer la totalité de votre salaire à l’étranger :
+au titre d’un dossier d’économies sur salaires, vous pouvez transférer
+(***)
+à partir de votre compte INR jusqu’à 100% de votre salaire perçu en Tunisie
+Une offre digitale
+MyBIAT
+pour piloter vos comptes en ligne.
+(*) Lié à un employeur tunisien dans le cadre d’une convention de coopération culturelle, scientifique ou technique
+(**) Lié à un employeur résident en Tunisie par un contrat de travail visé par le Ministère de l’Emploi
+(***) Dans le cadre de la réglementation des changes en vigueur
+
+===== Compte Epargne Prévoyance =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-epargne-prevoyance_63_45
+---
+Compte Epargne Prévoyance
+Une épargne sûre et rentable
+Vous désirez vous constituer une épargne de précaution en toute sécurité ? préparer à l’avance un projet qui vous tient à cœur?
+Le
+Compte Epargne Prévoyance
+BIAT est la formule d’épargne la plus simple qui vous permet de constituer et fructifier une épargne de précaution à votre rythme.
+Caractéristiques
+Votre compte est matérialisé à votre choix soit par un livret soit par une
+Carte VISA Express
+Vous pouvez effectuer librement toute opération de : versement d'espèces, versement de chèques, retraits espèces. Vous pouvez y recevoir des virements et effectuer des virements vers vos autres comptes BIAT ou autres banques.
+Ce compte est rémunéré trimestriellement au Taux de Rendement de l’Epargne (TRE). En plus, si votre Epargne est stable, une prime de fidélité sous forme de bonus d'intérêt vient s'ajouter au taux d'intérêt servi sur votre Epargne
+Avantages
+Disponibilité :
+Votre épargne est disponible à tout moment auprès de toutes les agences BIAT. En plus avec la Carte VISA Express, vous pouvez, quand vous le voulez, consulter le solde de votre compte et effectuer des retraits auprès de tous les DAB BIAT.
+Rentabilité :
+Vous bénéficiez d’une rémunération trimestrielle et d’un bonus d’intérêt récompensant votre fidélité.
+Un crédit en prime :
+Possibilité de bénéficier
+(*)
+après 1 an d'épargne, d’un
+CREDIFOYER
+vous permettant de réaliser vos projets personnels les plus divers (mariage, équipement foyer...).
+Une offre digitale
+MyBIAT
+.
+(*) Après accord de votre Agence BIAT
+
+===== Compte Chèquépargne =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-chequepargne_63_44
+---
+Compte Chèquépargne
+Vous êtes titulaire d’un Compte chèques BIAT sur lequel il vous arrive souvent d’avoir des excédents de trésorerie ? Vous souhaitez rémunérer automatiquement ces excédents en les plaçant sur un compte d’épargne, constituer une épargne tout en la gardant disponible à tout moment en cas de besoin ?
+Le
+Compte Chèquépargne
+est un compte d’épargne rattaché à votre compte chèques qui vous permet de constituer et rentabiliser une épargne à partir de vos excédents de trésorerie, de manière automatique et sans avoir à vous déplacer en agence, tout en gardant la disponibilité de vos fonds en cas de besoin et à tout moment.
+Caractéristiques
+Le compte Chèquépargne fonctionne
+de manière automatique
+sans intervention de votre part :
+Il est alimenté par toute somme excédant un solde minimum prédéfini sur votre Compte Chèques.
+Il est débité systématiquement pour régler vos diverses dépenses si le solde disponible sur votre Compte Chèques est insuffisant
+Ce compte est rémunéré trimestriellement au Taux de Rendement de l’Epargne classique (TRE). En plus, si votre Epargne est stable, une prime de fidélité sous forme de bonus d'intérêt peut venir s'ajouter au taux d'intérêt servi sur votre Epargne
+Avantages
+Commodité et gain de temps :
+Vous n'avez pas à vous déplacer à votre agence, les mouvements entre vos comptes chèques et Chèquépargne sont automatiques.
+Disponibilité :
+Vous pouvez procéder à tout moment à des retraits sur votre Compte Chèquepargne auprès de toute agence BIAT ( en puisant sur votre Compte chèques) .
+Rentabilité :
+Vous bénéficiez d’une rémunération trimestrielle aux conditions de l'épargne classique et d’un bonus d’intérêt récompensant votre fidélité.
+Un crédit en prime
+: Possibilité d'accès
+(*)
+après 1 an d'épargne à un
+CREDIFOYER
+vous permettant de réaliser vos projets personnels les plus divers (mariage, équipement foyer..).
+(*) Après accord de votre Agence BIAT
+
+===== Compte Titres =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-titres_63_57
+---
+Compte Titres
+La clé pour entrer à la bourse
+Vous souhaitez valoriser un capital, rentabiliser une partie de vos revenus sur le moyen et long terme ou diversifier vos placements ? Nous vous proposons le Compte Titres qui vous permet d’investir sur le marché financier et de bénéficier du potentiel de rendement des placements boursiers et monétaires
+Caractéristiques
+Destiné à loger votre portefeuille de valeurs mobilières (actions cotées en Bourse, obligations, parts d’OPCVM, Bons du Trésor), le compte titres fonctionne comme suit :
+Au crédit
+: achat d’actions cotées en Bourse, de parts d’Organismes de Placement Collectif en Valeurs Mobilières (OPCVM), d’obligations, de bons du trésor, souscriptions à des augmentations de capital, transferts de titres reçus,…….etc
+Au débit
+: vente d’actions cotées en Bourse, de parts d’Organismes de Placement Collectif en Valeurs Mobilières (OPCVM), d’obligations, de bons du trésor, transferts de titres émis,…….etc.
+Pour le pilotage de votre compte et de vos placements,  vous avez le choix entre deux modes de gestion :
+Gestion personnelle :
+si vous souhaitez initier vous-même vos opérations de Bourse en nous donnant vos instructions d’utilisation des sommes déposées sur votre compte. Vous pouvez par ailleurs mandater une (ou plusieurs) personne(s) de votre choix en vue de faire fonctionner votre compte titres, à travers une procuration établie.
+Gestion sous mandat :
+si vous préférez confier la gestion de vos avoirs à nos gestionnaires professionnels qui sélectionneront pour vous les meilleures opportunités de placement. Nous mettons à votre disposition à cet effet 3 modes de gestion : gestion prudente, gestion modérée et gestion dynamique.
+Avantages
+Rentabilité :
+vos avoirs fructifient grâce aux dividendes reçus, plus values éventuelles sur actions, plus values sur parts d’OPCVM et BTA et intérêts sur BTA.
+Fiscalité avantageuse
+sur les dividendes et plus values.
+Pratique
+Vous pouvez disposer librement des dividendes, intérêts et plus values issus de votre compte titres.
+Possibilité de céder vos valeurs et disposer librement de vos fonds en cas de besoin.
+Suivi régulier de votre portefeuille grâce à un relevé de compte trimestriel retraçant la composition et la valeur de votre portefeuille titres.
+
+===== Compte Epargne en Actions (CEA) =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/compte-epargne-en-actions-cea_63_58
+---
+Compte Epargne en Actions (CEA)
+Vos impôts vont fondre à vue d’œil
+Vous souhaitez valoriser un capital ou rentabiliser une partie de vos revenus sur le moyen et long terme, diversifier vos placements, le tout dans un cadre fiscal avantageux ? Nous vous proposons le
+Compte Epargne en Actions CEA
+qui vous permet de bénéficier à la fois du potentiel de rendement des placements boursiers et monétaires et d’avantages fiscaux très intéressants
+Caractéristiques
+Les dépôts sur votre CEA peuvent être effectués en un ou plusieurs versements durant l’année d’ouverture du compte.
+Les sommes versées sur votre CEA doivent être en permanence
+(*)
+investies
+pendant la période de 5 ans à compter du 1er janvier de l’année qui suit celle du versement:
+- en actions cotées à hauteur de 80% au moins, le reliquat étant affecté à l’acquisition de BTA
+- et/ou en parts de FCP BIAT-EPARGNE ACTIONS.
+Pour le pilotage de votre compte et des placements que vous y réalisez,  vous avez le choix entre trois modes de gestion :
+Gestion libre :
+si  vous souhaitez initier vous-même vos opérations de bourse à travers notre plateforme web ou bien à  partir de notre application mobile.
+Gestion sous mandat
+:
+si  vous préférez confier la gestion de votre épargne à nos spécialistes de la  Bourse qui sélectionneront pour vous les meilleures opportunités de placement  adaptées à vos objectifs, assureront un suivi et une recomposition continue de  votre portefeuille et vous permettront ainsi de bénéficier d’une gestion  dynamique et réactive aux aléas du marché.
+Gestion Collective
+:
+si vous préférez déléguer la gestion de votre épargne à nos professionnels qui suivront une stratégie de gestion de  portefeuille définie à l'avance et contrôlée.
+Avantages
+Gain fiscal important
+:Les sommes déposées sur votre CEA sont déductibles  de votre revenu imposable et ce jusqu'à 100.000  Dinars par an (avec un plafond de gain d’impôt de 55% de l’impôt dû avant déduction ), vous  permettant ainsi de réaliser un gain fiscal pouvant atteindre 35% du montant  placé
+(**).
+Disponibilité :
+Vous pouvez disposer librement des dividendes, plus-values de cession et tout produit pouvant être dégagé par votre compte CEA. Toutefois, les sommes versées sont bloquées pendant une période de 5 ans à compter du premier janvier de l’année qui suit celle de leur versement.
+Suivi  rapproché :
+Vous pouvez accéder à tout moment  à la  situation en temps réel de votre portefeuille en vue de suivre vos ordres en  cours d’exécution et consulter l’historique de vos transactions, et ce à  travers notre plateforme web ou bien à partir des applications mobiles (IOs  et Android).
+(*) Les sommes versées et non utilisées au bout de 30 jours, seront placées dans des OPCVM .
+(**)Cet avantage fiscal est valable uniquement la 1ère année de souscription . Sous réserve du non retrait  des sommes déposées sur votre CEA sur les 5 années suivant celle de leur dépôt.  Si le retrait des sommes versées sur votre CEA intervient avant l'expiration de  la période de cinq ans, l'impôt dû envers l'administration fiscale ainsi que  des intérêts de retard vous seront exigés.
+
+===== Produits - Comptes =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/comptes
+---
+Comptes
+My
+BIAT
+vous permet la consultation de la liste de vos comptes en dinars et en devises avec les soldes correspondants en temps réel : comptes chèques, comptes courants, comptes d'épargne.
+Vous pouvez aussi consulter les comptes de vos enfants mineurs. Pour cela, il vous suffit de demander l’accès auprès de votre agence. Une fois l’accès accordé, vous pourrez choisir, à chaque connexion à
+My
+BIAT
+, d’accéder à votre profil ou à celui de l’un de vos enfants.
+L’accès au compte de votre enfant mineur vous permet uniquement de consulter les extraits de son compte et d’en télécharger les e-relevés.
+
+===== Produits - Comptes =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/comptes
+---
+Comptes
+My
+BIAT
+vous permet la consultation de la liste de vos comptes en dinars et en devises avec les soldes correspondants en temps réel : comptes chèques, comptes courants, comptes d'épargne.
+Vous pouvez aussi consulter les comptes de vos enfants mineurs. Pour cela, il vous suffit de demander l’accès auprès de votre agence. Une fois l’accès accordé, vous pourrez choisir, à chaque connexion à
+My
+BIAT
+, d’accéder à votre profil ou à celui de l’un de vos enfants.
+L’accès au compte de votre enfant mineur vous permet uniquement de consulter les extraits de son compte et d’en télécharger les e-relevés.
+

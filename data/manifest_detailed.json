@@ -1,0 +1,619 @@
+[
+  {
+    "file": "loans_credit_biat.txt",
+    "topic": "loans_credit",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Crédits - page d'accueil",
+        "source_url": "https://www.biat.tn/biat/Fr/credits_61_59"
+      },
+      {
+        "title": "Crédit Auto (CREDIAUTO)",
+        "source_url": "https://www.biat.tn/biat/Fr/crediauto_63_66"
+      },
+      {
+        "title": "Crédits Conso",
+        "source_url": "https://www.biat.tn/biat/Fr/credits-conso_62_63"
+      },
+      {
+        "title": "Crédits Immobiliers",
+        "source_url": "https://www.biat.tn/biat/Fr/credits-immobiliers_62_60"
+      },
+      {
+        "title": "BIATIMMO",
+        "source_url": "https://www.biat.tn/biat/Fr/biatimmo_63_61"
+      },
+      {
+        "title": "Crédit Awal Sakan (Premier Logement)",
+        "source_url": "https://www.biat.tn/biat/Fr/credit-awal-sakan-premier-logement_63_383"
+      },
+      {
+        "title": "CREDIRESIDENCE",
+        "source_url": "https://www.biat.tn/biat/Fr/crediresidence_63_62"
+      },
+      {
+        "title": "Crédit FLEXIMMO",
+        "source_url": "https://www.biat.tn/biat/Fr/credit-fleximmo_63_398"
+      },
+      {
+        "title": "Crédit direct à immobilier",
+        "source_url": "https://www.biat.tn/biat/Fr/credit-direct-a-immobilier_82_335"
+      },
+      {
+        "title": "Simuler vos crédits",
+        "source_url": "https://www.biat.tn/biat/Fr/simuler-vos-credits_77_126"
+      },
+      {
+        "title": "Calculer capacité d'endettement",
+        "source_url": "https://www.biat.tn/biat/Fr/calculer-capacite-deendettement_84_337"
+      },
+      {
+        "title": "CREDIMEDIA",
+        "source_url": "https://www.biat.tn/biat/Fr/credimedia_63_64"
+      },
+      {
+        "title": "Avan'Salaire",
+        "source_url": "https://www.biat.tn/biat/Fr/avan-salaire_63_65"
+      },
+      {
+        "title": "CREDIAUTO",
+        "source_url": "https://www.biat.tn/biat/Fr/crediauto_63_66"
+      },
+      {
+        "title": "CREDIFOYER",
+        "source_url": "https://www.biat.tn/biat/Fr/credifoyer_63_67"
+      },
+      {
+        "title": "CREDIRENOV",
+        "source_url": "https://www.biat.tn/biat/Fr/credirenov_63_68"
+      },
+      {
+        "title": "Crédit revolving TEMPO",
+        "source_url": "https://www.biat.tn/biat/Fr/credit-revolving-tempo_63_69"
+      },
+      {
+        "title": "CREDINAJAH",
+        "source_url": "https://www.biat.tn/biat/Fr/credinajah_63_71"
+      },
+      {
+        "title": "Produits - Crédits",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/credits"
+      },
+      {
+        "title": "Simulateur de crédit",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/simulateur-de-credit"
+      },
+      {
+        "title": "Produits - Crédits",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/credits"
+      }
+    ]
+  },
+  {
+    "file": "credit_cards_biat.txt",
+    "topic": "credit_cards",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Carte Technologique",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-technologique_63_356"
+      },
+      {
+        "title": "Carte CHABEB",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-chabeb_63_343"
+      },
+      {
+        "title": "Carte VISA ou MasterCard classique",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-visa-ou-mastercard-classique_63_31"
+      },
+      {
+        "title": "Carte BIAT Flexy",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-biat-flexy_63_410"
+      },
+      {
+        "title": "Carte FLY",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-fly_63_358"
+      },
+      {
+        "title": "Carte CASH",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-cash_63_359"
+      },
+      {
+        "title": "Carte CASH Anonyme",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-cash-anonyme_63_367"
+      },
+      {
+        "title": "Carte H’DYA",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-hedya_63_360"
+      },
+      {
+        "title": "Carte TRAVEL",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-travel_63_35"
+      },
+      {
+        "title": "Carte VISA Premier",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-visa-premier_63_32"
+      },
+      {
+        "title": "Carte MasterCard Platinum",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-mastercard-platinum_63_33"
+      },
+      {
+        "title": "Carte VISA Infinite",
+        "source_url": "https://www.biat.tn/biat/Fr/carte-visa-infinite_63_347"
+      },
+      {
+        "title": "Cartes - Mes cartes",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/mes-cartes"
+      },
+      {
+        "title": "Cartes - Avantages des cartes",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/avantages-des-cartes"
+      },
+      {
+        "title": "Cartes - Chargement des cartes prépayées",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/chargement-des-cartes-prepayees"
+      },
+      {
+        "title": "Téléchargement - Justificatif de chargement de carte",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-chargement-de-carte"
+      },
+      {
+        "title": "Cartes - Mes cartes",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/mes-cartes"
+      },
+      {
+        "title": "Cartes - Chargement des cartes prépayées",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/chargement-des-cartes-prepayees"
+      },
+      {
+        "title": "Téléchargement - Justificatif de chargement de carte",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-chargement-de-carte"
+      }
+    ]
+  },
+  {
+    "file": "savings_investments_biat.txt",
+    "topic": "savings_investments",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Plan Epargne Résidence",
+        "source_url": "https://www.biat.tn/biat/Fr/plan-epargne-residence_63_47"
+      },
+      {
+        "title": "Simuler votre Epargne",
+        "source_url": "https://www.biat.tn/biat/Fr/simuler-votre-epargne_76_125"
+      },
+      {
+        "title": "Cours de change BBE",
+        "source_url": "https://www.biat.tn/biat/Fr/cours-de-change-bbe_66_127"
+      },
+      {
+        "title": "Cours OPCVM",
+        "source_url": "https://www.biat.tn/biat/Fr/cours-opcvm_65_128"
+      },
+      {
+        "title": "Epargne WLEDNA",
+        "source_url": "https://www.biat.tn/biat/Fr/epargne-wledna_63_49"
+      },
+      {
+        "title": "Projet Avenir",
+        "source_url": "https://www.biat.tn/biat/Fr/projet-avenir_63_50"
+      },
+      {
+        "title": "Projet Avenir Etudes",
+        "source_url": "https://www.biat.tn/biat/Fr/projet-avenir-etudes_63_51"
+      },
+      {
+        "title": "Projet Avenir Retraite",
+        "source_url": "https://www.biat.tn/biat/Fr/projet-avenir-retraite_63_52"
+      },
+      {
+        "title": "Placements bancaires",
+        "source_url": "https://www.biat.tn/biat/Fr/placements-bancaires_63_119"
+      },
+      {
+        "title": "Les SICAV",
+        "source_url": "https://www.biat.tn/biat/Fr/les-sicav_63_56"
+      },
+      {
+        "title": "Pack Epargne",
+        "source_url": "https://www.biat.tn/biat/Fr/pack-epargne_63_389"
+      },
+      {
+        "title": "Produits - Placements bancaires",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/placements-bancaires"
+      },
+      {
+        "title": "Produits - Placements titres",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/placements-titres"
+      },
+      {
+        "title": "Produits - Projet Avenir",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/projet-avenir"
+      },
+      {
+        "title": "Téléchargement - Relevé produits de placement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-releve-produits-de-placement"
+      },
+      {
+        "title": "Téléchargement - Attestation de versement Projet Avenir",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/telechargement-de-lattestation-de-versement-projet-avenir"
+      },
+      {
+        "title": "Produits - Placements bancaires",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/placements-bancaires"
+      },
+      {
+        "title": "Produits - Placements titres",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/placements-titres"
+      },
+      {
+        "title": "Produits - Projet Avenir",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/projet-avenir"
+      },
+      {
+        "title": "Téléchargement - Relevé produits de placement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-releve-produits-de-placement"
+      }
+    ]
+  },
+  {
+    "file": "accounts_biat.txt",
+    "topic": "accounts",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Compte Chèques",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-cheques_63_22"
+      },
+      {
+        "title": "Compte Etranger en devises",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-etranger-en-devises_63_24"
+      },
+      {
+        "title": "Compte Etranger en Dinars Convertibles",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-etranger-en-dinars-convertibles_63_25"
+      },
+      {
+        "title": "Compte spécial en devise ou en Dinars Convertibles",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-special-en-devise-ou-en-dinars-convertibles_63_118"
+      },
+      {
+        "title": "Compte Intérieur non Résident (INR)",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-interieur-non-resident-inrbr_63_117"
+      },
+      {
+        "title": "Compte Epargne Prévoyance",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-epargne-prevoyance_63_45"
+      },
+      {
+        "title": "Compte Chèquépargne",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-chequepargne_63_44"
+      },
+      {
+        "title": "Compte Titres",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-titres_63_57"
+      },
+      {
+        "title": "Compte Epargne en Actions (CEA)",
+        "source_url": "https://www.biat.tn/biat/Fr/compte-epargne-en-actions-cea_63_58"
+      },
+      {
+        "title": "Produits - Comptes",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/comptes"
+      },
+      {
+        "title": "Produits - Comptes",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/comptes"
+      }
+    ]
+  },
+  {
+    "file": "transfers_operations_biat.txt",
+    "topic": "transfers_operations",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Opérations - Les opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/les-operations"
+      },
+      {
+        "title": "Opérations - Filtres sur opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/filtres-sur-operations"
+      },
+      {
+        "title": "Opérations - Détails des opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/details-des-operations"
+      },
+      {
+        "title": "Opérations - En cours de dénouement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/operations-en-cours-de-denouement"
+      },
+      {
+        "title": "Opérations - Annulées",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/operations-annulees"
+      },
+      {
+        "title": "Téléchargement - Justificatif de virement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-virement"
+      },
+      {
+        "title": "Virements - Vers mes comptes",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/virements-vers-mes-comptes"
+      },
+      {
+        "title": "Virements - Permanents et programmés",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/virements-permanents-et-programmes"
+      },
+      {
+        "title": "Virements - Vers un autre bénéficiaire",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/virement-vers-un-autre-beneficiaire"
+      },
+      {
+        "title": "Virements - Gestion des bénéficiaires",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-beneficiaires"
+      },
+      {
+        "title": "Virements - Validation",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/validation-des-virements"
+      },
+      {
+        "title": "Virements - Suivi",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/suivi-des-virements"
+      },
+      {
+        "title": "Opérations - Les opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/les-operations"
+      },
+      {
+        "title": "Opérations - Filtres sur opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/filtres-sur-operations"
+      },
+      {
+        "title": "Opérations - Détails des opérations",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/details-des-operations"
+      },
+      {
+        "title": "Opérations - En cours de dénouement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/operations-en-cours-de-denouement"
+      },
+      {
+        "title": "Opérations - Annulées",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/operations-annulees"
+      },
+      {
+        "title": "Téléchargement - Justificatif de virement",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-virement"
+      }
+    ]
+  },
+  {
+    "file": "cheques_documents_biat.txt",
+    "topic": "cheques_documents",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Chéquiers - Gestion des chéquiers",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-chequiers"
+      },
+      {
+        "title": "Chéquiers - Association RIB TuniChèque",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/association-rib-tunicheque"
+      },
+      {
+        "title": "Téléchargement - Vos documents",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-vos-documents"
+      },
+      {
+        "title": "Téléchargement - Transactions",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-des-transactions"
+      },
+      {
+        "title": "Téléchargement - RIB/IBAN",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-ribiban"
+      },
+      {
+        "title": "Téléchargement - Attestation d'assistance voyage",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lattestation-dassistance-voyage"
+      },
+      {
+        "title": "Téléchargement - Extrait AVA",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lextrait-ava"
+      },
+      {
+        "title": "Chéquiers - Gestion des chéquiers",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-chequiers"
+      },
+      {
+        "title": "Chéquiers - Pré-réservation chèque",
+        "source_url": "https://www.mybiat.tn/version-web-uniquement/pre-reservation-cheque"
+      },
+      {
+        "title": "Téléchargement - Vos documents",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-vos-documents"
+      },
+      {
+        "title": "Téléchargement - Transactions",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-des-transactions"
+      },
+      {
+        "title": "Téléchargement - Relevé monétique",
+        "source_url": "https://www.mybiat.tn/version-web-uniquement/telechargement-releve-monetique"
+      },
+      {
+        "title": "Téléchargement - RIB/IBAN",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-ribiban"
+      },
+      {
+        "title": "Téléchargement - Attestation d'assistance voyage",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lattestation-dassistance-voyage"
+      },
+      {
+        "title": "Téléchargement - Extrait AVA",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lextrait-ava"
+      }
+    ]
+  },
+  {
+    "file": "packages_biat.txt",
+    "topic": "packages",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Pack University",
+        "source_url": "https://www.biat.tn/biat/Fr/pack-university_63_342"
+      },
+      {
+        "title": "Pack FIRST",
+        "source_url": "https://www.biat.tn/biat/Fr/pack-first_63_80"
+      },
+      {
+        "title": "Pack Express",
+        "source_url": "https://www.biat.tn/biat/Fr/pack-express_63_362"
+      },
+      {
+        "title": "Pack SILVER",
+        "source_url": "https://www.biat.tn/biat/Fr/pack-silver_63_79"
+      },
+      {
+        "title": "Accord SAFIR",
+        "source_url": "https://www.biat.tn/biat/Fr/accord-safir_63_78"
+      },
+      {
+        "title": "Classe Platinum",
+        "source_url": "https://www.biat.tn/biat/Fr/classe-platinum_63_350"
+      },
+      {
+        "title": "Classe ELITE",
+        "source_url": "https://www.biat.tn/biat/Fr/classe-elite_63_349"
+      }
+    ]
+  },
+  {
+    "file": "digital_banking_biat.txt",
+    "topic": "digital_banking",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "MyBIAT",
+        "source_url": "https://www.biat.tn/biat/Fr/mybiat_63_37"
+      },
+      {
+        "title": "MESSAGIS",
+        "source_url": "https://www.biat.tn/biat/Fr/messagis_63_38"
+      },
+      {
+        "title": "Services pratiques sur DAB",
+        "source_url": "https://www.biat.tn/biat/Fr/services-pratiques-sur-dab_63_40"
+      },
+      {
+        "title": "Accès à MyBIAT Web - Connexion",
+        "source_url": "https://www.mybiat.tn/fr/version-web-uniquement/connexion-mybiat-web"
+      },
+      {
+        "title": "Parcours d'auto-souscription à MyBIAT",
+        "source_url": "https://www.mybiat.tn/fr/version-web-uniquement/parcours-dauto-souscription-mybiat"
+      },
+      {
+        "title": "Déconnexion de MyBIAT Web",
+        "source_url": "https://www.mybiat.tn/fr/version-web-uniquement/deconnexion-de-mybiat-web"
+      }
+    ]
+  },
+  {
+    "file": "other_services_biat.txt",
+    "topic": "other_services",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Produits - Mes produits",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/mes-produits"
+      },
+      {
+        "title": "Produits - Allocations voyages d'affaires (AVA)",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/allocations-voyages-daffaires-ava"
+      },
+      {
+        "title": "Géolocalisation des agences",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/geolocalisation-des-agences"
+      },
+      {
+        "title": "Demande de contact",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/demande-de-contact"
+      },
+      {
+        "title": "Notifications - Centre de notifications",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/centre-de-notifications-de-mybiat"
+      },
+      {
+        "title": "Notifications - Push",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/notifications-push"
+      },
+      {
+        "title": "Notifications - Gestion des notifications Push",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/gestion-des-notifications-push"
+      },
+      {
+        "title": "Produits - Mes produits",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/mes-produits"
+      },
+      {
+        "title": "Produits - Allocations voyages d'affaires (AVA)",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/allocations-voyages-daffaires-ava"
+      },
+      {
+        "title": "Demande de contact",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/demande-de-contact"
+      },
+      {
+        "title": "Notifications - Centre de notifications",
+        "source_url": "https://www.mybiat.tn/fr/version-web-et-mobile/centre-de-notifications-de-mybiat"
+      }
+    ]
+  },
+  {
+    "file": "insurance_biat.txt",
+    "topic": "insurance",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Assurance Voyage BIAT",
+        "source_url": "https://www.biat.tn/biat/Fr/assurance-voyage-biat_63_377"
+      },
+      {
+        "title": "Bénoun",
+        "source_url": "https://www.biat.tn/biat/Fr/benoun_63_74"
+      },
+      {
+        "title": "Familia Silver",
+        "source_url": "https://www.biat.tn/biat/Fr/familia-silver_63_75"
+      },
+      {
+        "title": "Familia Gold",
+        "source_url": "https://www.biat.tn/biat/Fr/familia-gold_63_388"
+      }
+    ]
+  },
+  {
+    "file": "bill_payments_biat.txt",
+    "topic": "bill_payments",
+    "date_collected": "2026-07-02",
+    "sections": [
+      {
+        "title": "Paiement factures STEG / SONEDE",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/paiement-factures-steg-sonede"
+      },
+      {
+        "title": "Recharge téléphonique Orange",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/recharge-telephonique-orange"
+      },
+      {
+        "title": "Recharge Tunisie Autoroutes",
+        "source_url": "https://www.mybiat.tn/fr/version-mobile-uniquement/recharge-tunisie-autoroutes"
+      }
+    ]
+  }
+]

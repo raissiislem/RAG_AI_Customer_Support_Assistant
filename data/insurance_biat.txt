@@ -1,0 +1,105 @@
+===== Assurance Voyage BIAT =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/assurance-voyage-biat_63_377
+---
+[ERROR fetching page: HTTPSConnectionPool(host='www.biat.tn', port=443): Read timed out. (read timeout=15)]
+
+===== Bénoun =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/benoun_63_74
+---
+Bénoun
+A cet instant, vous pensez déjà à son avenir
+Personne n’est plus précieux pour vous que vos enfants. Avec Bénoun, garantissez leur une protection financière précieuse pour l’avenir.
+Bénoun est une formule d’assurance-vie qui vous garantit, en cas de décès ou d’Invalidité Absolue et Définitive (IAD), le versement à votre enfant d’une rente mensuelle et ce jusqu’à son 25
+ème
+anniversaire.
+Caractéristiques
+Une protection financière importante pour l’avenir de votre enfant …
+La rente, dont vous choisissez vous –même le montant, peut aller jusqu’à 300 dinars par mois.
+…à un coût compétitif
+Vous bénéficiez d’un tarif d’assurance avantageux négocié sur la base d’un tarif groupe. Ainsi, moyennant une prime d’assurance abordable, vous assurez à votre enfant une protection financière importante pour l’avenir. Vous pouvez payer la prime d’assurance annuellement, semestriellement ou trimestriellement.
+Le contrat Bénoun s’adapte à l’évolution de votre situation
+Bénoun est un contrat souple et évolutif : en fonction de l’évolution de votre situation familiale, vous pouvez augmenter ou diminuer le montant de la rente garantie.
+Une garantie avantageuse sur le plan fiscal
+La rente versée à votre enfant est totalement exonérée des droits d’enregistrement sur les successions et de l’impôt sur le revenu.
+Avantages
+Sécurité :
+protection financière de votre enfant en cas de survenance d’un aléa de la vie, grâce à un soutien financier précieux pendant son jeune âge et ses études
+Simplicité :
+souscription rapide avec des formalités allégées (aucune formalité médicale liée à l’âge)
+prélèvement automatique de la prime sur votre compte BIAT.
+Souplesse :
+possibilité de souscrire un contrat Bénoun pour chacun de vos enfants (dans la limite d’un total de rentes mensuelles de 300 dinars max)
+Produit conçu et géré par
+
+===== Familia Silver =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/familia-silver_63_75
+---
+Familia Silver
+Protégez ceux qui vous sont les plus chers
+Vous êtes père de famille,  vous voulez  assurer l’avenir de ceux que vous aimez, vous avez alors toutes les raisons de souscrire le contrat Familia Silver.
+Familia Silver
+est un contrat d’assurance - vie vous permettant de garantir, en cas de maladie grave , d’Invalidité Absolue et Définitive (IAD) ou de décès / décès accidentel , le versement à vous-même ou votre famille d’un capital pouvant atteindre  50 000DT        ( 100.000 Dinars en cas décès accidentel)
+Caractéristiques
+Une protection financière importante pour votre famille…
+Vous assurez une protection financière à ceux qui vous sont chers, leur permettant de faire face à leurs dépenses et charges courantes en cas de survenance d’un aléa de la vie.
+Le capital garanti est choisi à l’adhésion : 10mD, 20mD, 30mD, 40mD ou 50mD
+…à un coût compétitif
+Vous bénéficiez d’un tarif d’assurance avantageux négocié sur la base d’un tarif groupe.  Ainsi moyennant une prime abordable, vous assurez à votre famille une protection financière importante pour l’avenir
+Vous pouvez payer la prime d’assurance annuellement ou semestriellement ou trimestriellement.
+Votre contrat s’adapte à l’évolution de votre situation
+Familia Silver
+est un contrat souple et évolutif : en fonction de l’évolution de votre situation Familia Silver le, vous pouvez augmenter ou diminuer le montant du capital garanti ou encore modifier le(s) bénéficiaire(s) désigné(s).
+Une garantie avantageuse sur le plan fiscal
+Le capital garanti versé au(x) bénéficiaires(s) est totalement exonéré des droits d’enregistrement sur les successions et de l’impôt sur le revenu.
+Avantages
+Sécurité :
+protection financière de votre famille à travers un capital de soutien versé rapidement en cas de survenance d’un aléa de la vie
+Coût abordable :
+prime d’assurance annuelle abordable et pouvant être fractionnée
+Simplicité :
+souscription rapide avec des formalités allégées (aucune formalité médicale liée à l’âge).
+prélèvement automatique de la prime sur votre compte BIIAT.
+Souplesse :
+possibilité de changer à tout moment le(s) bénéficiaire(s) désigné(s) ou le montant du capital garanti
+Exonération
+d’impôt sur le capital versé.
+Produit conçu et géré par
+
+===== Familia Gold =====
+(from finance_biat.txt)
+Source: https://www.biat.tn/biat/Fr/familia-gold_63_388
+---
+Familia Gold
+Protégez ceux qui vous sont les plus chers
+Vous êtes père de famille,  vous voulez  assurer l’avenir de ceux que vous aimez, vous avez alors toutes les raisons de souscrire le contrat Familia Gold.
+Familia Gold
+est un contrat d’assurance - vie vous permettant de garantir, en cas de maladie grave , d’Invalidité Absolue et Définitive (IAD) ou de décès / décès accidentel , le versement à vous-même ou votre famille d’un capital pouvant atteindre 200 000 D     ( 400.000 Dinars en cas de décès accidentel).
+Caractéristiques
+Une protection financière importante pour votre famille…
+Vous assurez une protection financière à ceux qui vous sont chers, leur permettant de faire face à leurs dépenses et charges courantes en cas de survenance d’un aléa de la vie.
+Le capital garanti est choisi par l’assuré à l’adhésion : 75mD, 100mD, 150mD, 175mD ou 200 mD
+…à un coût compétitif
+Vous bénéficiez d’un tarif d’assurance avantageux négocié sur la base d’un tarif groupe.  Ainsi moyennant une prime abordable, vous assurez à votre famille une protection financière importante pour l’avenir
+Vous pouvez payer la prime d’assurance annuellement ou semestriellement ou trimestriellement.
+Votre contrat s’adapte à l’évolution de votre situation
+Familia Gold
+est un contrat souple et évolutif : en fonction de l’évolution de votre situation Familia Gold le, vous pouvez augmenter ou diminuer le montant du capital garanti ou encore modifier le(s) bénéficiaire(s) désigné(s).
+Une garantie avantageuse sur le plan fiscal
+Le capital garanti versé au(x) bénéficiaires(s) est totalement exonéré des droits d’enregistrement sur les successions et de l’impôt sur le revenu.
+Avantages
+Sécurité :
+protection financière de votre famille à travers un capital de soutien versé rapidement en cas de survenance d’un aléa de la vie
+Coût abordable :
+prime d’assurance annuelle abordable et pouvant être fractionnée
+Simplicité :
+souscription rapide avec des formalités allégées (aucune formalité médicale liée à l’âge).
+prélèvement automatique de la prime sur votre compte BIIAT.
+Souplesse :
+possibilité de changer à tout moment le(s) bénéficiaire(s) désigné(s) ou le montant du capital garanti
+Exonération
+d’impôt sur le capital versé.
+Produit conçu et géré par
+

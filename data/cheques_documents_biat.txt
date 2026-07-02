@@ -1,0 +1,221 @@
+===== Chéquiers - Gestion des chéquiers =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-chequiers
+---
+Gestion des chéquiers
+Cette fonctionnalité vous permet de faire la commande d’un nouveau chéquier, ainsi que le suivi des demandes en cours.
+Commande d’un nouveau chéquier :
+Afin de commander un nouveau chéquier et après avoir accédé au menu «Produits» / «Chèques», vous devez cliquer sur la rubrique «Demande et suivi», choisir le compte éligible et confirmer la commande.
+Suivi des commandes de chéquiers :
+À travers cette fonctionnalité, vous pouvez suivre l'état d'avancement de votre dernière commande de chéquier en cours avec affichage de la date de commande.
+Une commande de chéquier en cours peut passer par les statuts suivants :
+Chéquier en cours de validation: la demande de chéquier est en cours de validation au niveau de l'agence.
+Chéquier en cours de confection: la commande de chéquier est validée et en cours de confection chez l'imprimeur ou en route vers l'agence.
+Chéquier livré en agence: le chéquier est en attente de délivrance dans l'agence du compte.
+Si votre demande est annulée, vous pouvez le constater via l’étape « Annulée » affichée dans les détails de la commande.
+Vous pouvez, toutefois contacter votre agence pour plus d’informations.
+
+===== Chéquiers - Association RIB TuniChèque =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/association-rib-tunicheque
+---
+Association RIB « TuniChèque »
+Avec
+My
+BIAT Mobile
+vous pouvez déclarer votre numéro de téléphone et procéder à l’association de votre RIB de compte avec la plateforme « TuniChèque » .
+Le menu «Produits / Chèques / Association RIB» vous permet d’associer votre RIB et de déclarer votre numéro de téléphone sur lequel vous recevrez le SMS de validation de chaque opération de paiement par chèque.
+
+===== Téléchargement - Vos documents =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-vos-documents
+---
+Téléchargement de vos documents
+My
+BIAT
+vous donne accès à tous vos documents regroupés par compte. Il vous suffit d’accéder au compte de votre choix et de cliquer sur l’icone « Documents ». Vous pouvez aussi filtrer vos documents par type et/ou par date.
+Les documents téléchargeables sont :
+Relevé de compte
+Avis de débit/crédit (avec cachet banque)
+Echelle d’intérêts
+Ticket d’agios
+Décompte d'agios escompte commercial
+Décompte d’agios escompte financier
+Décompte d’agios FDE
+Décompte d’agios FDI
+Attestation de rapatriement (CX5)
+
+===== Téléchargement - Transactions =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-des-transactions
+---
+Téléchargement des transactions
+Vous pouvez télécharger la liste complète ou filtrée de vos opérations sur compte.
+Pour ce faire, il vous suffit d’accéder à la liste des transactions de l’un de vos comptes , le bouton de téléchargement s’affiche et vous permettra de télécharger votre extrait de compte sous format PDF et CSV .
+Vous pouvez aussi télécharger les détails de chaque transaction : « dénouée » ou « en cours de dénouement ».
+
+===== Téléchargement - RIB/IBAN =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-ribiban
+---
+Téléchargement du RIB/IBAN
+Pour télécharger votre RIB/IBAN, il vous suffit d’accéder au compte de votre choix et de cliquer sur l’icone « Détails ».
+
+===== Téléchargement - Attestation d'assistance voyage =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lattestation-dassistance-voyage
+---
+Téléchargement de l’attestation d’assistance voyage
+En accédant à l’une de vos cartes éligibles, affichées dans le menu « Cartes », un menu « Attestation assistance voyage » s’affiche sous la section « Option de la carte ».
+En cliquant dessus, l’attestation d’assistance voyage en version imprimable s’affiche avec les données de la carte.
+Pour télécharger le document en version PDF il vous suffit de cliquer sur le bouton « Télécharger ».
+Il est à noter que les attestations d’assistance voyage sont téléchargeables depuis
+My
+BIAT
+pour les cartes :
+Infinite
+Platinum
+Visa Premier
+Business Premium
+Business Gold
+Et ce même
+si la carte a le statut « Désactivée » ou « Bloquée par l’utilisateur »
+
+===== Téléchargement - Extrait AVA =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lextrait-ava
+---
+Téléchargement de l’extrait AVA
+My
+BIAT
+vous permet de télécharger votre extrait AVA .
+Si vous utilisez
+My
+BIAT
+mobile, il vous suffit de cliquer sur le dossier AVA disponible au niveau du menu « Produit ».  L’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre extrait sous format PDF.
+Si vous utilisez
+My
+BIAT
+web , cliquez sur le dossier AVA disponible au niveau du menu « Mes produits » puis cliquez sur « Mouvements », l’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre extrait AVA sous format PDF .
+
+===== Chéquiers - Gestion des chéquiers =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-chequiers
+---
+Gestion des chéquiers
+Cette fonctionnalité vous permet de faire la commande d’un nouveau chéquier, ainsi que le suivi des demandes en cours.
+Commande d’un nouveau chéquier :
+Afin de commander un nouveau chéquier et après avoir accédé au menu «Produits» / «Chèques», vous devez cliquer sur la rubrique «Demande et suivi», choisir le compte éligible et confirmer la commande.
+Suivi des commandes de chéquiers :
+À travers cette fonctionnalité, vous pouvez suivre l'état d'avancement de votre dernière commande de chéquier en cours avec affichage de la date de commande.
+Une commande de chéquier en cours peut passer par les statuts suivants :
+Chéquier en cours de validation: la demande de chéquier est en cours de validation au niveau de l'agence.
+Chéquier en cours de confection: la commande de chéquier est validée et en cours de confection chez l'imprimeur ou en route vers l'agence.
+Chéquier livré en agence: le chéquier est en attente de délivrance dans l'agence du compte.
+Si votre demande est annulée, vous pouvez le constater via l’étape « Annulée » affichée dans les détails de la commande.
+Vous pouvez, toutefois contacter votre agence pour plus d’informations.
+
+===== Chéquiers - Pré-réservation chèque =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/version-web-uniquement/pre-reservation-cheque
+---
+Pré-réservation chèque
+La version web de
+My
+BIAT
+vous permet d’effectuer une pré-réservation d’un ou de plusieurs chèques à travers la rubrique «Chèques».
+Cette opération vise à garantir
+(*)
+le montant du chèque en faveur du bénéficiaire même si le solde de votre compte est insuffisant, avec la possibilité d’assurer le suivi de vos demandes de pré-réservation initiées.
+(*) Après accord de votre agence
+
+===== Téléchargement - Vos documents =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-vos-documents
+---
+Téléchargement de vos documents
+My
+BIAT
+vous donne accès à tous vos documents regroupés par compte. Il vous suffit d’accéder au compte de votre choix et de cliquer sur l’icone « Documents ». Vous pouvez aussi filtrer vos documents par type et/ou par date.
+Les documents téléchargeables sont :
+Relevé de compte
+Avis de débit/crédit (avec cachet banque)
+Echelle d’intérêts
+Ticket d’agios
+Décompte d'agios escompte commercial
+Décompte d’agios escompte financier
+Décompte d’agios FDE
+Décompte d’agios FDI
+Attestation de rapatriement (CX5)
+
+===== Téléchargement - Transactions =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-des-transactions
+---
+Téléchargement des transactions
+Vous pouvez télécharger la liste complète ou filtrée de vos opérations sur compte.
+Pour ce faire, il vous suffit d’accéder à la liste des transactions de l’un de vos comptes , le bouton de téléchargement s’affiche et vous permettra de télécharger votre extrait de compte sous format PDF et CSV .
+Vous pouvez aussi télécharger les détails de chaque transaction : « dénouée » ou « en cours de dénouement ».
+
+===== Téléchargement - Relevé monétique =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/version-web-uniquement/telechargement-releve-monetique
+---
+Téléchargement relevé monétique
+La version web de
+My
+BIAT
+vous permet ,en tant que professionnel, de suivre en détail et télécharger vos encaissements via TPE ou sites e-commerce.
+Cette fonctionnalité est disponible à travers le menu «Mes documents» / «Relevé monétique».
+Il vous suffit de sélectionner une affiliation, choisir la plage de dates souhaitée pour avoir toutes les informations nécessaires concernant la liste des bordereaux et les transactions y afférentes .
+Vous pouvez également filtrer vos transactions par montant et par numéro d’autorisation.
+Il vous est également possible d'exporter la liste des remises ou bien la liste des transactions sous format Excel.
+
+===== Téléchargement - RIB/IBAN =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-ribiban
+---
+Téléchargement du RIB/IBAN
+Pour télécharger votre RIB/IBAN, il vous suffit d’accéder au compte de votre choix et de cliquer sur l’icone « Détails ».
+
+===== Téléchargement - Attestation d'assistance voyage =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lattestation-dassistance-voyage
+---
+Téléchargement de l’attestation d’assistance voyage
+En accédant à l’une de vos cartes éligibles, affichées dans le menu « Cartes », un menu « Attestation assistance voyage » s’affiche sous la section « Option de la carte ».
+En cliquant dessus, l’attestation d’assistance voyage en version imprimable s’affiche avec les données de la carte.
+Pour télécharger le document en version PDF il vous suffit de cliquer sur le bouton « Télécharger ».
+Il est à noter que les attestations d’assistance voyage sont téléchargeables depuis
+My
+BIAT
+pour les cartes :
+Infinite
+Platinum
+Visa Premier
+Business Premium
+Business Gold
+Et ce même
+si la carte a le statut « Désactivée » ou « Bloquée par l’utilisateur »
+
+===== Téléchargement - Extrait AVA =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-de-lextrait-ava
+---
+Téléchargement de l’extrait AVA
+My
+BIAT
+vous permet de télécharger votre extrait AVA .
+Si vous utilisez
+My
+BIAT
+mobile, il vous suffit de cliquer sur le dossier AVA disponible au niveau du menu « Produit ».  L’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre extrait sous format PDF.
+Si vous utilisez
+My
+BIAT
+web , cliquez sur le dossier AVA disponible au niveau du menu « Mes produits » puis cliquez sur « Mouvements », l’icône de téléchargement
+située en haut à droite de l’écran vous permet de télécharger votre extrait AVA sous format PDF .
+

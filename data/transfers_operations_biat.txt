@@ -1,0 +1,326 @@
+===== Opérations - Les opérations =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/les-operations
+---
+Les opérations
+Les écrans des transactions affichent, en temps réel, vos opérations dénouées sur vos comptes et sur vos
+cartes
+ainsi que vos opérations par
+cartes
+de débit nationales en cours de dénouement, le tout ordonné par date.
+Quand vous cliquez sur un compte ou une
+carte
+, un extrait détaillé des opérations dénouées s’affiche. Les opérations sont triées par date et avec les détails : Type opération (crédit ou débit), Montant et Devise. Une section réservée à vos opérations par
+cartes
+de débit nationales ,en cours de dénouement, est également affichée dans la liste des transactions sur votre compte.
+En scrollant l’écran vers le bas, plus d’opérations antérieures apparaîtront.
+Vous pouvez également effectuer une recherche par mot clé portant sur les libellés des opérations ou appliquer des filtres sur les transactions.
+La fonctionnalité de recherche des transactions porte aussi bien sur les opérations dénouées que sur celles en cours de dénouement. En revanche le filtre des transactions s’applique uniquement aux opérations dénouées.
+Vous pouvez aussi télécharger la liste complète ou filtrée de vos transactions sur votre compte :
+Téléchargement des transactions
+
+===== Opérations - Filtres sur opérations =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/filtres-sur-operations
+---
+Filtres sur opérations
+En cliquant sur l'icône "Filtre des transactions", vous pouvez filtrer vos transactions par date et/ou par sens opération: Débit ou Crédit et/ou par montant. La liste des transactions sera affichée en fonction des filtres appliqués.
+Il vous est possible de télécharger la liste de vos transactions filtrées :
+Téléchargement des transactions
+
+===== Opérations - Détails des opérations =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/details-des-operations
+---
+Détails des opérations
+En cliquant sur l’une des transactions sur vos comptes ou sur vos cartes, les détails qui leurs sont relatifs, s’affichent:
+Type de l’opération
+Nature de l’opération Débit/Crédit
+Montant de l’opération
+Libellé de l’opération
+Référence de l’opération
+Date de l’opération
+Date valeur de l’opération
+Description de l’opération
+Pour les transactions relatives à des virements émis depuis
+My
+BIAT
+vers des comptes BIAT ou autres bénéficiaires, une section additionnelle s’affiche, «Détails du virement
+My
+BIAT
+» donnant les détails du bénéficiaire de votre virement émis.
+Vous pouvez télécharger les détails de chaque transaction :
+Téléchargement des transactions
+
+===== Opérations - En cours de dénouement =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/operations-en-cours-de-denouement
+---
+Opérations en cours de dénouement
+Les opérations en cours de dénouement représentent les opérations effectuées par cartes de débit nationales *( retraits, achats via TPE, achats en ligne) et qui ne sont pas encore dénouées (portées) sur votre compte. Elles s’affichent provisoirement et en vue réduite au niveau de votre extrait de compte sous la section "Opérations en cours de dénouement".
+L’affichage de ce type d’opérations est également accompagné par l’affichage du « solde à venir » qui reflète le solde réel du compte, soit un solde comptable qui prend en considération les opérations par carte non encore dénouées.
+Une fois ces dépenses par carte dénouées , elles ne seront plus affichées dans la section « Opérations en cours de dénouement » et s’afficheront en tant qu’opérations dénouées sur le compte.
+Si le délai de compensation des opérations non encore dénouées dépasse les 15 jours , ces dépenses disparaissent de la section « Opérations en cours de dénouement » et continuent à s’afficher dans la rubrique des transactions effectuées par carte en tant qu’opérations « Non compensées ».
+* Hors les dépenses de type « Retrait DAB BIAT » avec carte VISA Express
+
+===== Opérations - Annulées =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/operations-annulees
+---
+Opérations annulées
+Pour un meilleur suivi de vos opérations monétiques,
+My
+BIAT
+vous permet de consulter les transactions annulées relatives aux transactions par carte non abouties.
+Ces transactions sont consultables uniquement sur votre extrait de carte : Au niveau des détails des transactions par carte, une nouvelle catégorie de transactions est ajoutée : opérations annulées.
+
+===== Téléchargement - Justificatif de virement =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-virement
+---
+Téléchargement du justificatif de virement
+Suite à l’exécution d’un virement émis depuis
+My
+BIAT
+, vous pouvez télécharger le justificatif de votre virement sous format PDF et ce au niveau de l’écran de succès du virement émis .
+Pour le faire sur
+My
+BIAT
+Mobile , il suffit de cliquer sur le bouton de téléchargement
+sur Android ou bien le bouton de partage sur IOS
+et un message de succès s’affiche.
+Pour accéder au justificatif téléchargé:
+Sur Android
+: le fichier sera enregistré sous « Gestionnaire des Fichiers / Documents »
+Sur IOS
+: le fichier se trouvera dans l’emplacement où vous avez choisi de l’enregistrer
+Si vous utilisez
+My
+BIAT
+Web, vous pouvez le faire en cliquant sur le bouton ‘’Télécharger’’
+affiché sur l’écran de succès du virement émis.
+
+===== Virements - Vers mes comptes =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/virements-vers-mes-comptes
+---
+Virements vers mes comptes
+Ce menu vous permet d’effectuer vos virements vers vos comptes BIAT.
+Pour effectuer un virement vers l’un de vos comptes, il vous suffit de sélectionner le compte émetteur, le compte bénéficiaire, renseigner le montant souhaité, ainsi qu’une brève description.
+Une notification sera générée par
+My
+BIAT
+vous informant des détails de l’opération ( montant du virement, référence de l’opération …)
+Dans le cas d’un virement rejeté,
+My
+BIAT
+vous affiche le motif du rejet. Il est également indiqué dans la notification reçue.
+
+===== Virements - Permanents et programmés =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/virements-permanents-et-programmes
+---
+Virements permanents et programmés
+My
+BIAT
+vous offre la possibilité d’effectuer des virements permanents ou programmés.
+Virement programmé :
+vous choisissez la date souhaitée d’exécution du virement.
+Virement permanent :
+vous définissez la fréquence (quotidienne, hebdomadaire, mensuelle ou annuelle), le jour d’exécution ainsi que la date de début et la date de fin.
+Il est également possible d’annuler un virement permanent ou programmé tant qu’il n’a pas encore été exécuté. Vous pouvez aussi télécharger le reçu de révocation en cliquant sur « Télécharger le reçu »
+
+===== Virements - Vers un autre bénéficiaire =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/virement-vers-un-autre-beneficiaire
+---
+Virement vers un autre bénéficiaire
+Ce menu vous permet d’effectuer vos virements vers d'autres bénéficiaires: clients de la BIAT ou clients d'autres banques, avec la possibilité de rajouter de nouveaux bénéficiaires. Pour effectuer un virement vers un autre bénéficiaire (client BIAT ou client d’une autre banque) , il vous suffit de sélectionner un compte émetteur parmi la liste, le nom et le compte du bénéficiaire, renseigner le montant souhaité (en dinar ou en devise), ainsi qu’une brève description.
+Pour les transactions relatives à des virements émis depuis
+My
+BIAT
+vers des comptes BIAT ou autres bénéficiaires, une section additionnelle s’affiche, «Détails du virement
+My
+BIAT
+» donnant les détails du bénéficiaire du virement émis.
+Une notification sera générée par
+My
+BIAT
+vous informant sur :
+Le montant du virement émis
+Le numéro du compte du bénéficiaire
+Le nom du bénéficiaire
+La référence de l’opération (en cas de succès de l’opération )
+Le motif du rejet ( en cas de rejet du virement)
+Il vous est possible de télécharger le justificatif de votre virement sous format PDF :
+Téléchargement du justificatif de virement
+
+===== Virements - Gestion des bénéficiaires =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/gestion-des-beneficiaires
+---
+Gestion des bénéficiaires
+Ajout d’un bénéficiaire :
+Vous pouvez ajouter un nouveau bénéficiaire qui ne fait pas encore partie de votre liste.
+Pour ajouter un nouveau bénéficiaire via
+My
+BIAT
+Mobile, renseignez le nom du nouveau bénéficiaire et son numéro de compte /RIB puis cliquez sur l’icône
+.
+Si vous utilisez la version web de
+My
+BIAT
+, cliquez sur le bouton
+qui se trouve en haut à droite de la liste, puis saisissez le nom du bénéficiaire et son numéro de compte/RIB.Si les données du nouveau bénéficiaire sont valides, vous recevrez une notification de confirmation de l'ajout. Sinon, un message d'erreur est affiché.
+Vous ne pouvez pas ajouter un bénéficiaire déjà existant dans votre liste ou dont le numéro de compte /RIB est invalide, un message d'erreur spécifique s'affiche lorsque le numéro de compte ou le RIB contient un espace ou un caractère spécial.
+Consultation d’un bénéficiaire :
+Pour consulter un bénéficiaire déjà existant , il vous suffit de :
+Taper une lettre du nom de ce bénéficiaire ou un chiffre de son RIB au niveau du formulaire de virement. Une liste des bénéficiaires déjà existants et contenant la lettre ou le chiffre saisi s’affiche.
+Ou d’accéder à la liste des bénéficiaires classée par ordre alphabétique en cliquant sur la rubrique « Liste des bénéficiaires » existante sous le menu « Virement ».
+Mise à jour et suppression d’un bénéficiaire :
+Vous pouvez mettre à jour ou supprimer des bénéficiaires à travers
+My
+BIAT
+. Il vous suffit d’accéder à la liste des bénéficiaires « Virements/liste des bénéficiaires » et de cliquer sur le bouton « Supprimer » ou « Mise à jour »
+Pour valider l'opération de suppression, un écran est affiché avec une question " Êtes vous sûr de vouloir supprimer «nom du bénéficiaire» de votre liste des bénéficiaires ?" et deux boutons « Annuler » et « Supprimer ». Pour confirmer la suppression, cliquez sur « Supprimer »
+Pour mettre à jour les données d’un bénéficiaire et après avoir cliqué sur le bouton «  Mise à jour », vous serez amené(e) à valider les données du bénéficiaire dans l'écran qui s’affiche.
+
+===== Virements - Validation =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/validation-des-virements
+---
+Validation des virements
+Après avoir rempli correctement le formulaire de virement, un écran de confirmation s’affiche avec deux choix de validation :
+Validation par identifiants biométriques : Face ID ou empreinte digitale (selon le modèle de votre Smartphone)
+Validation par code SMS : Code SMS à usage unique que vous recevrez sur votre numéro de téléphone associé à
+My
+BIAT
+.
+Si vous choisissiez la validation biométrique et dans le cas où vos identifiants biométriques sont déjà enregistrés sur
+My
+BIAT
+, vous n’aurez pas besoin de les enregistrer à nouveau pour valider le virement.
+Dans le cas où vos identifiants biométriques ne sont pas enregistrés sur
+My
+BIAT
+et que vous souhaitez valider votre virement par Face ID ou empreinte digitale , un pop-up s’affiche vous invitant à paramétrer vos accès biométriques au niveau de
+My
+BIAT
+. Vous devez cliquer sur « Configurer ma biométrie » qui vous dirigera vers les paramètres de votre appareil mobile pour enregistrer vos données biométriques. Une fois la configuration biométrique effectuée, vous serez redirigé(e) à nouveau vers l’écran de virement pour le confirmer avec votre identifiant biométrique
+Si vous souhaitez procéder à cette configuration ultérieurement, vous pouvez opter pour la validation par code SMS et différer la configuration biométrique pour plus tard :
+Comment enregistrer mes données biométriques MyBIAT sur mon smartphone ? | MyBiat
+
+===== Virements - Suivi =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/suivi-des-virements
+---
+Suivi des virements
+En accédant au menu «Virement», vous pouvez :
+Consulter l’historique de vos virements
+Suivre vos virements planifiés
+Vérifier leur statut (exécuté, rejeté ou annulé)
+Vous pouvez aussi annuler un virement permanent ou programmé tant qu’il n’a pas encore été exécuté.
+Après l’annulation, vous pouvez télécharger l’ordre de révocation en cliquant sur « Télécharger le reçu ».
+
+===== Opérations - Les opérations =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/les-operations
+---
+Les opérations
+Les écrans des transactions affichent, en temps réel, vos opérations dénouées sur vos comptes et sur vos
+cartes
+ainsi que vos opérations par
+cartes
+de débit nationales en cours de dénouement, le tout ordonné par date.
+Quand vous cliquez sur un compte ou une
+carte
+, un extrait détaillé des opérations dénouées s’affiche. Les opérations sont triées par date et avec les détails : Type opération (crédit ou débit), Montant et Devise. Une section réservée à vos opérations par
+cartes
+de débit nationales ,en cours de dénouement, est également affichée dans la liste des transactions sur votre compte.
+En scrollant l’écran vers le bas, plus d’opérations antérieures apparaîtront.
+Vous pouvez également effectuer une recherche par mot clé portant sur les libellés des opérations ou appliquer des filtres sur les transactions.
+La fonctionnalité de recherche des transactions porte aussi bien sur les opérations dénouées que sur celles en cours de dénouement. En revanche le filtre des transactions s’applique uniquement aux opérations dénouées.
+Vous pouvez aussi télécharger la liste complète ou filtrée de vos transactions sur votre compte :
+Téléchargement des transactions
+
+===== Opérations - Filtres sur opérations =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/filtres-sur-operations
+---
+Filtres sur opérations
+En cliquant sur l'icône "Filtre des transactions", vous pouvez filtrer vos transactions par date et/ou par sens opération: Débit ou Crédit et/ou par montant. La liste des transactions sera affichée en fonction des filtres appliqués.
+Il vous est possible de télécharger la liste de vos transactions filtrées :
+Téléchargement des transactions
+
+===== Opérations - Détails des opérations =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/details-des-operations
+---
+Détails des opérations
+En cliquant sur l’une des transactions sur vos comptes ou sur vos cartes, les détails qui leurs sont relatifs, s’affichent:
+Type de l’opération
+Nature de l’opération Débit/Crédit
+Montant de l’opération
+Libellé de l’opération
+Référence de l’opération
+Date de l’opération
+Date valeur de l’opération
+Description de l’opération
+Pour les transactions relatives à des virements émis depuis
+My
+BIAT
+vers des comptes BIAT ou autres bénéficiaires, une section additionnelle s’affiche, «Détails du virement
+My
+BIAT
+» donnant les détails du bénéficiaire de votre virement émis.
+Vous pouvez télécharger les détails de chaque transaction :
+Téléchargement des transactions
+
+===== Opérations - En cours de dénouement =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/operations-en-cours-de-denouement
+---
+Opérations en cours de dénouement
+Les opérations en cours de dénouement représentent les opérations effectuées par cartes de débit nationales *( retraits, achats via TPE, achats en ligne) et qui ne sont pas encore dénouées (portées) sur votre compte. Elles s’affichent provisoirement et en vue réduite au niveau de votre extrait de compte sous la section "Opérations en cours de dénouement".
+L’affichage de ce type d’opérations est également accompagné par l’affichage du « solde à venir » qui reflète le solde réel du compte, soit un solde comptable qui prend en considération les opérations par carte non encore dénouées.
+Une fois ces dépenses par carte dénouées , elles ne seront plus affichées dans la section « Opérations en cours de dénouement » et s’afficheront en tant qu’opérations dénouées sur le compte.
+Si le délai de compensation des opérations non encore dénouées dépasse les 15 jours , ces dépenses disparaissent de la section « Opérations en cours de dénouement » et continuent à s’afficher dans la rubrique des transactions effectuées par carte en tant qu’opérations « Non compensées ».
+* Hors les dépenses de type « Retrait DAB BIAT » avec carte VISA Express
+
+===== Opérations - Annulées =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/operations-annulees
+---
+Opérations annulées
+Pour un meilleur suivi de vos opérations monétiques,
+My
+BIAT
+vous permet de consulter les transactions annulées relatives aux transactions par carte non abouties.
+Ces transactions sont consultables uniquement sur votre extrait de carte : Au niveau des détails des transactions par carte, une nouvelle catégorie de transactions est ajoutée : opérations annulées.
+
+===== Téléchargement - Justificatif de virement =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/telechargement-du-justificatif-de-virement
+---
+Téléchargement du justificatif de virement
+Suite à l’exécution d’un virement émis depuis
+My
+BIAT
+, vous pouvez télécharger le justificatif de votre virement sous format PDF et ce au niveau de l’écran de succès du virement émis .
+Pour le faire sur
+My
+BIAT
+Mobile , il suffit de cliquer sur le bouton de téléchargement
+sur Android ou bien le bouton de partage sur IOS
+et un message de succès s’affiche.
+Pour accéder au justificatif téléchargé:
+Sur Android
+: le fichier sera enregistré sous « Gestionnaire des Fichiers / Documents »
+Sur IOS
+: le fichier se trouvera dans l’emplacement où vous avez choisi de l’enregistrer
+Si vous utilisez
+My
+BIAT
+Web, vous pouvez le faire en cliquant sur le bouton ‘’Télécharger’’
+affiché sur l’écran de succès du virement émis.
+

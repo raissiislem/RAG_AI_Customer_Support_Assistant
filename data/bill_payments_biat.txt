@@ -1,0 +1,82 @@
+===== Paiement factures STEG / SONEDE =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/paiement-factures-steg-sonede
+---
+Paiement factures STEG / SONEDE
+My
+BIAT Mobile
+vous permet de payer vos factures STEG & SONEDE via le menu «Services/paiements» .
+Vous aurez deux choix de paiement : STEG ou SONEDE
+1- Paiement des factures STEG :
+Une fenêtre s'affiche pour saisir la référence de votre abonnement STEG
+2- Paiement des factures SONEDE :
+Une fenêtre s'affiche pour saisir :
+la référence de votre contrat SONEDE
+ou bien votre code client SONEDE
+Après avoir saisi votre référence STEG ou SONEDE, vos factures à payer s'affichent. En cliquant sur l'une des factures, les détails suivants s'affichent :
+Référence
+Date de la facture : Date d’émission de la facture relative à un trimestre donné
+Date d'échéance : Date du dernier délai de paiement
+Montant de la facture
+Montant cumulable à payer : en cas d’ancienne(s) facture(s) non réglée(s)
+Après avoir consulté le détail de la facture et cliqué sur le bouton « Payer », un écran s'affiche vous invitant à choisir le compte de paiement.
+Après avoir choisi le compte de paiement et cliqué sur le bouton « Payer » , vous aurez le choix de valider votre paiement par code de confirmation reçu par SMS ou bien par vos données biométriques.
+Suite à la validation du paiement, un écran de succès ou de rejet s'affiche :
+En cas de succès du paiement :
+En cliquant sur le bouton « OK », un message apparaît vous invitant à télécharger votre reçu de paiement sous format PDF.
+En cas de rejet du paiement :
+Un écran de rejet s’affiche , vous informant du motif du rejet de votre paiement.
+En cas d'échec de paiement
+Dans le cas où votre compte a été débité alors même que la facture n’a pas été réglée, vous avez la possibilité de déposer une réclamation.
+En cliquant sur le bouton « Réclamer », vous serez redirigé(e) vers votre messagerie électronique et votre réclamation sera envoyée automatiquement à l'adresse e-mail : "
+contact.mybiat@biat.com.tn
+".
+Une notification vous sera par ailleurs envoyée systématiquement en vue de vous donner plus de détails sur le problème rencontré et vous inviter à déposer votre réclamation.
+
+===== Recharge téléphonique Orange =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/recharge-telephonique-orange
+---
+Recharge téléphonique Orange
+My
+BIAT Mobile
+vous permet de recharger le solde de votre ligne téléphonique Orange facilement et en toute sécurité à partir du menu « Services / Paiements ».
+En accédant au sous-menu « Orange », vous serez amené(e) à introduire vos données de recharge à savoir : Numéro de téléphone , montant de la recharge et une description.
+En cliquant sur « suivant » et après avoir choisi le compte à débiter pour la recharge, un écran s'affiche avec les détails suivants :
+Numéro de téléphone / Montant de la recharge / Nom de l'émetteur / Numéro du compte émetteur / Date de la recharge / Description.
+Vous pouvez valider votre recharge par code de confirmation reçu par SMS , ou bien par vos données biométriques.
+En cas de succès de la recharge , vous pouvez télécharger le reçu de votre recharge sous format PDF.
+L’opération de recharge peut échouer avec trois cas de figure possibles :
+1- Problème technique :
+Un écran s'affiche avec les détails suivants : Nom de l'émetteur / Numéro du compte émetteur / Numéro de téléphone /Montant de la recharge / Montant à payer / Date de la recharge / Description
+2- Rejet de la recharge suite à un problème lié à votre compte :
+Vous aurez en plus des détails cités ci-dessus, le motif de rejet de votre recharge (solde insuffisant…)
+3- Recharge échouée avec débit du compte :
+Au cas où votre compte est débité alors même que la recharge n’a pas abouti, une notification vous sera envoyée pour vous inviter à déposer votre réclamation.
+Vous pouvez déposer votre réclamation en cliquant sur le bouton « Réclamer ». Vous serez redirigé(e) vers un formulaire de contact vous permettant de déposer votre réclamation qui sera prise en charge par un conseiller BIAT.
+Recharge Tunisie Autoroutes
+En accédant au menu « Paiement factures » , un sous-menu «Tunisie Autoroutes » apparaît vous permettant d’introduire une référence d’abonnement ou un numéro de téléphone associé à un abonnement. Il vous est également possible d’enregistrer ces données en cochant la case « Enregistrer l'abonnement »
+1- Conditions appliquées pour les clients particuliers :
+En cas de solde disponible supérieur à 30 DT : le montant minimum de recharge est de 10 DT,
+En cas de solde disponible inférieur à 30 DT: le montant minimum de recharge est de 30 DT
+Le montant maximum de recharge est de 100 DT.
+2- Conditions appliquées pour les clients professionnels :
+En cas de solde disponible supérieur à 500 DT : le montant minimum de recharge est de 100 DT,
+En cas de solde disponible inférieur à 500 DT: le montant minimum de recharge est de 500 DT
+Le montant maximum de recharge est de 1000 DT.
+
+===== Recharge Tunisie Autoroutes =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/recharge-tunisie-autoroutes
+---
+Recharge Tunisie Autoroutes
+En accédant au menu «Services» / «Paiements» , un sous-menu «Tunisie Autoroutes » apparaît vous permettant d’introduire une référence d’abonnement ou un numéro de téléphone associé à un abonnement. Il vous est également possible d’enregistrer ces données en cochant la case « Enregistrer l'abonnement »
+1- Conditions appliquées pour les clients particuliers :
+En cas de solde disponible supérieur à 30 DT : le montant minimum de recharge est de 10 DT,
+En cas de solde disponible inférieur à 30 DT: le montant minimum de recharge est de 30 DT
+Le montant maximum de recharge est de 100 DT.
+2- Conditions appliquées pour les clients professionnels :
+En cas de solde disponible supérieur à 500 DT : le montant minimum de recharge est de 100 DT,
+En cas de solde disponible inférieur à 500 DT: le montant minimum de recharge est de 500 DT
+Le montant maximum de recharge est de 1000 DT.
+

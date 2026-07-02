@@ -1,0 +1,68 @@
+[
+  {
+    "file": "loans_credit_biat.txt",
+    "topic": "loans_credit",
+    "sections": 21,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "credit_cards_biat.txt",
+    "topic": "credit_cards",
+    "sections": 19,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "savings_investments_biat.txt",
+    "topic": "savings_investments",
+    "sections": 20,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "accounts_biat.txt",
+    "topic": "accounts",
+    "sections": 11,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "transfers_operations_biat.txt",
+    "topic": "transfers_operations",
+    "sections": 18,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "cheques_documents_biat.txt",
+    "topic": "cheques_documents",
+    "sections": 15,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "packages_biat.txt",
+    "topic": "packages",
+    "sections": 7,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "digital_banking_biat.txt",
+    "topic": "digital_banking",
+    "sections": 6,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "other_services_biat.txt",
+    "topic": "other_services",
+    "sections": 11,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "insurance_biat.txt",
+    "topic": "insurance",
+    "sections": 4,
+    "date_collected": "2026-07-02"
+  },
+  {
+    "file": "bill_payments_biat.txt",
+    "topic": "bill_payments",
+    "sections": 3,
+    "date_collected": "2026-07-02"
+  }
+]

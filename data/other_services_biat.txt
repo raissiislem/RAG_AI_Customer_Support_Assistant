@@ -1,0 +1,234 @@
+===== Produits - Mes produits =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/mes-produits
+---
+Mes produits
+En vous connectant sur
+My
+BIAT
+,vous serez connecté(e) à la page d’accueil a­ffichant la liste des produits auxquels vous avez souscrit.
+Les produits sont regroupés selon leurs types avec affichage de la liste de vos comptes, de vos cartes, de vos crédits, de votre (vos) contrat(s) Projet(s) avenir ainsi que de vos placements et de votre AVA
+En cliquant sur l’un de vos produits les détails qui leurs sont relatifs vous seront affichés.
+Les numéros de vos cartes sont masqués.
+
+===== Produits - Allocations voyages d'affaires (AVA) =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/allocations-voyages-daffaires-ava
+---
+Allocations voyages d’affaires ( AVA)
+Vous pouvez consulter votre dossier Allocation Voyage d’affaires (AVA) avec leurs détails au niveau du menu « Produit » .
+Les types de comptes AVA consultables sont :
+AVA Marchés Réalisables à l’Etranger
+AVA Exportateur
+AVA Autres Activités
+En consultant un compte AVA, le solde s’affiche ainsi que le détail de tous vos mouvements faits sur ce compte.
+En cliquant sur le champs « Détails du dossier AVA » ( si vous utilisez la version
+My
+BIAT Web
+) , ou sur l’icone
+, ( si vous utilisez la version
+My
+BIAT Mobile
+) les informations suivantes s’affichent :
+Type AVA
+Référence
+Statut de l’AVA
+Nom du titulaire
+Total alimentations
+Total utilisations
+Date de domiciliation
+En cliquant sur une transaction au niveau de l’extrait des mouvements AVA, un écran s'affiche avec les détails suivants :
+Libellé Mouvement
+Référence
+Date Mouvement
+Type d’opération : Débit/Crédit
+Montant
+Vous pouvez également
+télécharger
+l’extrait de vos opérations AVA
+
+===== Géolocalisation des agences =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/geolocalisation-des-agences
+---
+Géolocalisation des agences
+Cette fonctionnalité vous permet de géolocaliser les Agences et les DAB BIAT.
+En accédant au menu « Trouvez-nous » de la section « Profil », vous pouvez géolocaliser les agences et les distributeurs BIAT sur un périmètre donné. En faisant un zoom sur la zone de recherche de l'écran, les agences et les DAB apparaissent avec précision.
+En cliquant sur une agence ou un DAB BIAT, les détails apparaissent (adresse, date d’ouverture / fermeture Agence). Pour visualiser ces détails, il vous suffit de remonter l’écran vers le haut.
+Il vous est possible d’obtenir l’itinéraire vers une agence ou un DAB BIAT en cliquant sur « Itinéraire » qui vous mènera à la fonctionnalité de navigation sur le Map de votre téléphone.
+
+===== Demande de contact =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/demande-de-contact
+---
+Demande de contact
+My
+BIAT
+vous permet d’envoyer et de suivre vos demandes d’information, d’assistance ou de réclamation via le menu « Contactez-nous » de la section « Profil » .
+Pour contacter le Centre de Relations Clients, il vous suffit de sélectionner le sujet de votre demande, préciser l’objet et rédiger votre message.
+Vous avez également la possibilité d’enregistrer votre demande comme brouillon si vous souhaitez y ajouter des informations complémentaires ultérieurement.
+
+===== Notifications - Centre de notifications =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/centre-de-notifications-de-mybiat
+---
+Centre de notifications de MyBIAT
+My
+BIAT
+génère des notifications suite aux opérations / évènements suivants :
+Opérations de débit/crédit effectuées sur votre compte
+Chargement de carte prépayée
+Commande de chéquier
+Déblocage de crédit
+Ajout d’un nouveau compte courant/épargne
+Ajout d’un nouveau projet Avenir
+Ajout d’un nouveau crédit
+Disponibilité de votre chéquier en agence
+Disponibilité de votre carte en agence ( première info + rappels)
+Disponibilité de votre relevé mensuel
+Encaissement de vos chèques
+Chèque en attente de paiement suite à une absence ou insuffisance de solde
+Rejet de vos chèques pour insuffisance ou absence de solde (préavis / CNP)
+Rejet de votre chèque pour vice de forme.
+Ces notifications sont consultables via l’icone « Liste des notifications »
+.
+
+===== Notifications - Push =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/notifications-push
+---
+Notifications Push
+My
+BIAT
+émet des notifications push qui vous sont envoyées sur votre téléphone, même quand vous êtes déconnecté(e) de
+My
+BIAT
+et ce pour vous notifier de l’occurrence de certaines opérations avec une formulation courte pour garantir la sécurité de vos données.
+Les évènements qui génèrent une notification Push sur
+My
+BIAT
+sont les suivants:
+Opérations de débit/crédit effectuées sur votre compte
+Chargement de carte prépayée
+Commande de chéquier
+Déblocage de crédit
+Ajout d’un nouveau compte courant/épargne
+Ajout d’un nouveau projet Avenir
+Ajout d’un nouveau crédit
+Disponibilité de votre chéquier en agence
+Disponibilité de votre carte en agence ( première info + rappels)
+Disponibilité de votre relevé mensuel
+Encaissement de vos chèques
+Chèque en attente de paiement suite à une absence ou insuffisance de solde
+Rejet de vos chèques pour insuffisance ou absence de solde (préavis / CNP)
+Rejet de votre chèque pour vice de forme.
+En cliquant sur la notification Push reçue sur le téléphone vous serez redirigé(e) :
+Si l’application est ouverte :
+vers le centre de notifications
+My
+BIAT
+où vous trouverez les informations détaillées de l’opération notifiée
+Si l’application est fermée :
+vers la page de login de l’application
+
+===== Notifications - Gestion des notifications Push =====
+(from mybiat_phone.txt)
+Source: https://www.mybiat.tn/fr/version-mobile-uniquement/gestion-des-notifications-push
+---
+Gestion des notifications Push
+My
+BIAT
+vous permet d'activer/désactiver les notifications Push reçues, et ce en cliquant sur l’icône de gestion des notifications
+qui se trouve en haut à droite, au niveau du menu « Plus ».
+En accédant à la liste des notifications, un icône de réglage en haut à droite s'affiche, vous permettant de gérer les notifications Push relatives aux opérations de débit/crédit effectuées sur vos comptes.
+En choisissant un compte parmi la liste, vous aurez accès à :
+1- Un bouton pour activer/désactiver toutes les notifications Push de débit/crédit
+2- Un bouton pour activer/désactiver les notifications par type de transaction : débit/crédit
+3- Un filtre par montant minimum des transactions au-dessus duquel vous souhaitez recevoir des notifications Push
+En désactivant / activant toutes les notifications relatives à l’un de vos comptes, une notification de succès s’affiche.
+
+===== Produits - Mes produits =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/mes-produits
+---
+Mes produits
+En vous connectant sur
+My
+BIAT
+,vous serez connecté(e) à la page d’accueil a­ffichant la liste des produits auxquels vous avez souscrit.
+Les produits sont regroupés selon leurs types avec affichage de la liste de vos comptes, de vos cartes, de vos crédits, de votre (vos) contrat(s) Projet(s) avenir ainsi que de vos placements et de votre AVA
+En cliquant sur l’un de vos produits les détails qui leurs sont relatifs vous seront affichés.
+Les numéros de vos cartes sont masqués.
+
+===== Produits - Allocations voyages d'affaires (AVA) =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/allocations-voyages-daffaires-ava
+---
+Allocations voyages d’affaires ( AVA)
+Vous pouvez consulter votre dossier Allocation Voyage d’affaires (AVA) avec leurs détails au niveau du menu « Produit » .
+Les types de comptes AVA consultables sont :
+AVA Marchés Réalisables à l’Etranger
+AVA Exportateur
+AVA Autres Activités
+En consultant un compte AVA, le solde s’affiche ainsi que le détail de tous vos mouvements faits sur ce compte.
+En cliquant sur le champs « Détails du dossier AVA » ( si vous utilisez la version
+My
+BIAT Web
+) , ou sur l’icone
+, ( si vous utilisez la version
+My
+BIAT Mobile
+) les informations suivantes s’affichent :
+Type AVA
+Référence
+Statut de l’AVA
+Nom du titulaire
+Total alimentations
+Total utilisations
+Date de domiciliation
+En cliquant sur une transaction au niveau de l’extrait des mouvements AVA, un écran s'affiche avec les détails suivants :
+Libellé Mouvement
+Référence
+Date Mouvement
+Type d’opération : Débit/Crédit
+Montant
+Vous pouvez également
+télécharger
+l’extrait de vos opérations AVA
+
+===== Demande de contact =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/demande-de-contact
+---
+Demande de contact
+My
+BIAT
+vous permet d’envoyer et de suivre vos demandes d’information, d’assistance ou de réclamation via le menu « Contactez-nous » de la section « Profil » .
+Pour contacter le Centre de Relations Clients, il vous suffit de sélectionner le sujet de votre demande, préciser l’objet et rédiger votre message.
+Vous avez également la possibilité d’enregistrer votre demande comme brouillon si vous souhaitez y ajouter des informations complémentaires ultérieurement.
+
+===== Notifications - Centre de notifications =====
+(from mybiat_web.txt)
+Source: https://www.mybiat.tn/fr/version-web-et-mobile/centre-de-notifications-de-mybiat
+---
+Centre de notifications de MyBIAT
+My
+BIAT
+génère des notifications suite aux opérations / évènements suivants :
+Opérations de débit/crédit effectuées sur votre compte
+Chargement de carte prépayée
+Commande de chéquier
+Déblocage de crédit
+Ajout d’un nouveau compte courant/épargne
+Ajout d’un nouveau projet Avenir
+Ajout d’un nouveau crédit
+Disponibilité de votre chéquier en agence
+Disponibilité de votre carte en agence ( première info + rappels)
+Disponibilité de votre relevé mensuel
+Encaissement de vos chèques
+Chèque en attente de paiement suite à une absence ou insuffisance de solde
+Rejet de vos chèques pour insuffisance ou absence de solde (préavis / CNP)
+Rejet de votre chèque pour vice de forme.
+Ces notifications sont consultables via l’icone « Liste des notifications »
+.
+
