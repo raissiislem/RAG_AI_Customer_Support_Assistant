@@ -1,0 +1,36 @@
+<aside class="sidebar-shell">
+  <div class="sidebar-brand">
+    <div class="biat-logo" aria-hidden="true">
+      <svg viewBox="0 0 120 120" role="img" aria-label="BIAT logo">
+        <rect width="120" height="120" rx="14" fill="#0f5b8a"></rect>
+        <path d="M24 84C42 84 50 73 58 61L82 27H98L74 61C65 74 54 84 37 84H24Z" fill="#f6a400"></path>
+        <path d="M34 84C50 84 58 74 66 64L89 31" fill="none" stroke="#d97a00" stroke-width="8" stroke-linecap="round"></path>
+      </svg>
+    </div>
+    <div>
+      <p class="eyebrow">BIAT Assistant</p>
+      <h1>Chats</h1>
+    </div>
+  </div>
+
+  <button type="button" class="sidebar-action sidebar-action--primary" (click)="newChat.emit()">
+    New Chat
+  </button>
+
+  <nav class="conversation-list" aria-label="Conversations">
+    <button
+      type="button"
+      class="conversation-item"
+      *ngFor="let conversation of conversations"
+      [class.conversation-item--active]="conversation.id === activeConversationId"
+      (click)="conversationSelected.emit(conversation.id)"
+    >
+      <span class="conversation-title">{{ conversation.title }}</span>
+      <span class="conversation-meta">{{ conversation.updatedAt | date:'short' }}</span>
+    </button>
+  </nav>
+
+  <button type="button" class="sidebar-action sidebar-action--ghost" (click)="logout.emit()">
+    Logout
+  </button>
+</aside>

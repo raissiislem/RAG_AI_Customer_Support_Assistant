@@ -1,0 +1,30 @@
+<section class="auth-card">
+  <div class="auth-card__header">
+    <p class="eyebrow">BIAT Assistant</p>
+    <h2>Create account</h2>
+    <p>Register once to keep your JWT session and conversation history.</p>
+  </div>
+
+  <form class="auth-form" (ngSubmit)="submit()">
+    <label>
+      <span>Username</span>
+      <input type="text" name="username" [(ngModel)]="username" autocomplete="username" minlength="3" maxlength="50" required />
+    </label>
+
+    <label>
+      <span>Email</span>
+      <input type="email" name="email" [(ngModel)]="email" autocomplete="email" maxlength="255" required />
+    </label>
+
+    <label>
+      <span>Password</span>
+      <input type="password" name="password" [(ngModel)]="password" autocomplete="new-password" minlength="8" maxlength="128" required />
+    </label>
+
+    <button type="submit" [disabled]="isLoading">
+      {{ isLoading ? 'Creating account' : 'Create account' }}
+    </button>
+  </form>
+
+  <p class="auth-error" *ngIf="errorMessage">{{ errorMessage }}</p>
+</section>

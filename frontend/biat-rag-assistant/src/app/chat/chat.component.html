@@ -1,0 +1,95 @@
+<main class="chat-shell" [class.is-loading]="isLoading">
+  <header class="chat-topbar">
+    <div class="brand-lockup">
+      <div class="biat-logo" aria-hidden="true">
+        <svg viewBox="0 0 120 120" role="img" aria-label="BIAT logo">
+          <rect width="120" height="120" rx="14" fill="#0f5b8a"></rect>
+          <path d="M24 84C42 84 50 73 58 61L82 27H98L74 61C65 74 54 84 37 84H24Z" fill="#f6a400"></path>
+          <path d="M34 84C50 84 58 74 66 64L89 31" fill="none" stroke="#d97a00" stroke-width="8" stroke-linecap="round"></path>
+        </svg>
+      </div>
+      <div>
+        <p class="eyebrow">BIAT Assistant</p>
+        <ng-container *ngIf="activeConversation; else fallbackTitle">
+          <h1>{{ activeConversation.title || 'BIAT RAG Assistant' }}</h1>
+        </ng-container>
+        <ng-template #fallbackTitle>
+          <h1>BIAT RAG Assistant</h1>
+        </ng-template>
+      </div>
+    </div>
+
+    <div class="status-chip" [class.status-chip--live]="isLoading">
+      <span class="status-dot"></span>
+      <span>{{ isLoading ? 'Retrieving' : 'Ready' }}</span>
+    </div>
+  </header>
+
+  <section class="chat-panel" aria-label="Chat conversation">
+    <div class="messages-viewport" #messagesViewport>
+      <article class="message message--assistant" *ngIf="!activeConversation">
+        <div class="message-bubble message-bubble--loading">
+          <p>{{ emptyStateTitle }}</p>
+          <p>{{ emptyStateMessage }}</p>
+        </div>
+      </article>
+
+      <article
+        class="message"
+        *ngFor="let message of messages; trackBy: trackByMessageIndex"
+        [class.message--user]="message.role === 'user'"
+        [class.message--assistant]="message.role === 'assistant'"
+      >
+        <div class="message-bubble">
+          <p>{{ message.content }}</p>
+
+          <div class="message-foot" *ngIf="message.sources?.length">
+            <span class="message-tag" [class.message-tag--muted]="!message.matched">Sources</span>
+            <span class="source-pill" *ngFor="let source of message.sources">{{ source }}</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="message message--assistant" *ngIf="isLoading">
+        <div class="message-bubble message-bubble--loading">
+          <div class="typing">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <p>Searching BIAT knowledge sources…</p>
+        </div>
+      </article>
+    </div>
+
+    <div class="composer-wrap">
+      <div class="quick-actions">
+        <button
+          type="button"
+          class="quick-chip"
+          *ngFor="let suggestion of suggestions"
+          (click)="useSuggestion(suggestion)"
+        >
+          {{ suggestion }}
+        </button>
+      </div>
+
+      <form class="composer" (ngSubmit)="submitQuestion()">
+        <textarea
+          id="question"
+          name="question"
+          [(ngModel)]="question"
+          rows="1"
+          placeholder="Ask BIAT anything…"
+          [disabled]="isLoading"
+        ></textarea>
+        <button type="submit" [disabled]="isLoading || !question.trim()">
+          <span>{{ isLoading ? 'Sending' : 'Send' }}</span>
+          <span class="button-arrow">→</span>
+        </button>
+      </form>
+
+      <p class="helper-copy" *ngIf="errorMessage">{{ errorMessage }}</p>
+    </div>
+  </section>
+</main>

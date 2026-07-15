@@ -1,0 +1,25 @@
+<section class="auth-card">
+  <div class="auth-card__header">
+    <p class="eyebrow">BIAT Assistant</p>
+    <h2>Sign in</h2>
+    <p>Use your account to access saved chats and continue conversations.</p>
+  </div>
+
+  <form class="auth-form" (ngSubmit)="submit()">
+    <label>
+      <span>Email</span>
+      <input type="email" name="email" [(ngModel)]="email" autocomplete="email" maxlength="255" required />
+    </label>
+
+    <label>
+      <span>Password</span>
+      <input type="password" name="password" [(ngModel)]="password" autocomplete="current-password" minlength="1" maxlength="128" required />
+    </label>
+
+    <button type="submit" [disabled]="isLoading">
+      {{ isLoading ? 'Signing in' : 'Sign in' }}
+    </button>
+  </form>
+
+  <p class="auth-error" *ngIf="errorMessage">{{ errorMessage }}</p>
+</section>
